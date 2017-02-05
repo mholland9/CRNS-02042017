@@ -1,0 +1,1 @@
+http://edgaronline.api.mashery.com/v2/descriptions/{resourceName}/{descriptionField}?appkey={APPKEY}
