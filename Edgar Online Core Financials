@@ -1,0 +1,5 @@
+http://edgaronline.api.mashery.com/v2/corefinancials/ann.json?primarysymbols=MSFT&numperiods=3&debug=true&appkey={APPKEY}
+GET /v2/companies?primarysymbols=msft&appkey={APPKEY} HTTP/1.1
+ApplicationKey: {244as7ypr87zxax3g8f27tdu}
+Host: edgaronline.api.mashery.com
+Accept: application/xml
