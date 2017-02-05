@@ -1,0 +1,1489 @@
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"  lang="en-US"   class="hiperf"  dir="ltr" >
+
+    <head data-info="v:2.0.6241.39707;a:6d63b3ca-e3c4-4a7e-959e-6164b50401de;cn:13;az:{did:2a40435d34fa47a6bb0cbc241eae0600, rid: 13, sn: eastus-prod-finance, dt: 2017-02-05T02:57:24.3413860Z, bt: 2017-02-01T22:04:06.9215899Z};ddpi:1;dpio:;dpi:1;dg:tmx.pc.edge.spartan;th:green;PageName:destinationPage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:,vk:finance,n:,l:en-us,ck:Portfolio};xd:;ovc:f;al:;f:legacyss,noscrollplay,muidflt11cf,muidflt28cf,refilters-t3,muidflt58cf,muidflt258cf,shistoryc"  data-js="{&quot;dpi&quot;:1.0,&quot;ddpi&quot;:1.0,&quot;dpio&quot;:null,&quot;forcedpi&quot;:null,&quot;dms&quot;:6000,&quot;ps&quot;:1000,&quot;bds&quot;:7,&quot;dg&quot;:&quot;tmx.pc.edge.spartan&quot;,&quot;ssl&quot;:false,&quot;moduleapi&quot;:&quot;http://www.msn.com/en-us/money/api/modules/fetch&quot;,&quot;cdnmoduleapi&quot;:&quot;http://static-finance-eus-s-msn-com.akamaized.net/en-us/money/api/modules/cdnfetch&quot;,&quot;pdpdeltaupdateapi&quot;:&quot;http://www.msn.com/en-us/homepage/api/pdp/updatepdpdata&quot;,&quot;xd&quot;:null,&quot;signedin&quot;:1,&quot;sso&quot;:&quot;&quot;,&quot;exchangeenabled&quot;:false,&quot;twitterimpenabled&quot;:false,&quot;greenidcallenabled&quot;:false,&quot;bingsnrurl&quot;:&quot;&quot;}"  data-client-settings="{&quot;geo_country&quot;:&quot;us&quot;,&quot;os_region&quot;:&quot;&quot;,&quot;apps_locale&quot;:&quot;&quot;,&quot;base_url&quot;:&quot;/en-us/money/&quot;,&quot;aid&quot;:&quot;6d63b3cae3c44a7e959e6164b50401de&quot;,&quot;sid&quot;:null,&quot;v&quot;:&quot;2.0.6241.39707&quot;,&quot;static_page&quot;:false,&quot;functionalonly_cookie_experience&quot;:false,&quot;fbid&quot;:&quot;132970837947&quot;,&quot;lvk&quot;:&quot;money&quot;,&quot;vk&quot;:&quot;finance&quot;,&quot;cat&quot;:&quot;m&quot;,&quot;autorefresh&quot;:true,&quot;bingssl&quot;:false,&quot;autorefreshsettings&quot;:{&quot;is_market_enabled&quot;:false,&quot;timeout&quot;:0,&quot;idle_enabled&quot;:false,&quot;idle_timeout&quot;:&quot;2&quot;},&quot;uipr&quot;:false,&quot;uiprsettings&quot;:{&quot;enabled&quot;:false,&quot;frequency_minutes&quot;:0,&quot;banner_delay_minutes&quot;:null,&quot;maxfresh_display&quot;:null,&quot;minfresh_count&quot;:&quot;5&quot;,&quot;ajaxtimeoutinseconds&quot;:&quot;60&quot;},&quot;imgsrc&quot;:{&quot;quality_high&quot;:&quot;60&quot;,&quot;quality_low&quot;:&quot;5&quot;,&quot;order_timeout&quot;:&quot;1000&quot;},&quot;adsettings&quot;:{&quot;wait_for_ad_in_sec&quot;:&quot;3&quot;,&quot;retry_for_ad&quot;:&quot;2&quot;},&quot;mecontroluri&quot;:&quot;https://mem.gfx.ms/meversion/?partner=msn&amp;market=en-us&quot;,&quot;lazyload&quot;:{&quot;enabled&quot;:false}}"   >
+        <meta charset="utf-8" />
+
+
+
+        <script>var _timing = { start: +new Date }</script>
+
+            <script>window.adsEnabled=false;</script>
+    <script src="/advertisement.ad.js"></script>
+
+        <link rel="dns-prefetch" href="//img-s-msn-com.akamaized.net" /><link rel="dns-prefetch" href="//rad.msn.com" /><link rel="dns-prefetch" href="//otf.msn.com" /><link rel="dns-prefetch" href="//c.msn.com" /><link rel="dns-prefetch" href="//udc.amp-test.com" /><link rel="dns-prefetch" href="https://www.bing.com" /><link rel="alternate" hreflang="en-us" href="http://www.msn.com/en-us/money/watchlist?ocid=spartandhp" /><meta name="msapplication-TileColor" content="#224f7b"/><meta name="msapplication-TileImage" content="//static-finance-eus-s-msn-com.akamaized.net/sc/1f/08ced4.png"/><meta name="msapplication-config" content="none"/><meta name="robots" content="noydir,noodp"/>            <title>Portfolio manager and stock watchlist - MSN Money</title>
+<meta name="description" content="Track your stocks and investments with MSN Money&#39;s portfolio manager. You can also create multiple watchlists, synced across all your devices."/>
+ <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+ <style>
+ html{font-size:calc(1em*.625)}@media screen and (min-width:837px) and (max-width:942px){html{font-size:54% !important}html #aside div:not(.widead) .outeradcontainer,html .pagingsection div:not(.widead) .outeradcontainer,html .sectioncontent div:not(.widead) .outeradcontainer,html .stripecontainer div:not(.widead) .outeradcontainer,html .tabsection div:not(.widead) .outeradcontainer,html .todaystripe div:not(.widead) .outeradcontainer{transform:translateX(-6.8%) translateY(-6.8%) scale(.864)}html #aside div:not(.widead) .outeradcontainer .adchoices,html #aside div:not(.widead) .outeradcontainer .adchoicesjs,html .pagingsection div:not(.widead) .outeradcontainer .adchoices,html .pagingsection div:not(.widead) .outeradcontainer .adchoicesjs,html .sectioncontent div:not(.widead) .outeradcontainer .adchoices,html .sectioncontent div:not(.widead) .outeradcontainer .adchoicesjs,html .stripecontainer div:not(.widead) .outeradcontainer .adchoices,html .stripecontainer div:not(.widead) .outeradcontainer .adchoicesjs,html .tabsection div:not(.widead) .outeradcontainer .adchoices,html .tabsection div:not(.widead) .outeradcontainer .adchoicesjs,html .todaystripe div:not(.widead) .outeradcontainer .adchoices,html .todaystripe div:not(.widead) .outeradcontainer .adchoicesjs{transform:translateX(350%)}html .ads-section .groupad iframe{margin-right:-2rem}html #precontent .groupad .adcontainer iframe:not(:first-child){margin-left:-2.8rem}html .groupad iframe{transform:scale(.864)}html div:not(.full-width) .widead .outeradcontainer{transform:scale(.864)}html .storepromo-section-full{top:30rem !important}html .storepromo-section-full .storepromo-list li .box{margin:.8rem auto}html .storepromo-section-full .storepromo-list li img{margin-bottom:.5rem}html .storepromo-todaystripe-full .storepromo-list li a{width:30.4rem}html #sign-in{bottom:5.90907rem}html #settings{min-height:5.6818rem}html #meCtrl&gt;a{margin-top:1.70454rem}html .mectrlimageplaceholder{height:4.0909rem;width:4.0909rem}html .mectrlimageplaceholder::after{font-size:4.88635rem}html .mectrlname{font-size:1.36818rem;line-height:3.86362rem}html .mectrlsignin{line-height:7.2727rem}html .msame_Header_pic{height:5.6818rem}}@media screen and (min-width:1152px) and (max-width:1264px){html{font-size:55% !important}html #aside div:not(.widead) .outeradcontainer,html .pagingsection div:not(.widead) .outeradcontainer,html .sectioncontent div:not(.widead) .outeradcontainer,html .stripecontainer div:not(.widead) .outeradcontainer,html .tabsection div:not(.widead) .outeradcontainer,html .todaystripe div:not(.widead) .outeradcontainer{transform:translateX(-6%) translateY(-6%) scale(.88)}html #aside div:not(.widead) .outeradcontainer .adchoices,html #aside div:not(.widead) .outeradcontainer .adchoicesjs,html .pagingsection div:not(.widead) .outeradcontainer .adchoices,html .pagingsection div:not(.widead) .outeradcontainer .adchoicesjs,html .sectioncontent div:not(.widead) .outeradcontainer .adchoices,html .sectioncontent div:not(.widead) .outeradcontainer .adchoicesjs,html .stripecontainer div:not(.widead) .outeradcontainer .adchoices,html .stripecontainer div:not(.widead) .outeradcontainer .adchoicesjs,html .tabsection div:not(.widead) .outeradcontainer .adchoices,html .tabsection div:not(.widead) .outeradcontainer .adchoicesjs,html .todaystripe div:not(.widead) .outeradcontainer .adchoices,html .todaystripe div:not(.widead) .outeradcontainer .adchoicesjs{transform:translateX(350%)}html .ads-section .groupad iframe{margin-right:-2rem}html #precontent .groupad .adcontainer iframe:not(:first-child){margin-left:-2.8rem}html .groupad iframe{transform:scale(.88)}html div:not(.full-width) .widead .outeradcontainer{transform:scale(.88)}html .storepromo-section-full{top:30rem !important}html .storepromo-section-full .storepromo-list li .box{margin:.8rem auto}html .storepromo-section-full .storepromo-list li img{margin-bottom:.5rem}html .storepromo-todaystripe-full .storepromo-list li a{width:30.4rem}html #sign-in{bottom:5.90907rem}html #settings{min-height:5.6818rem}html #meCtrl&gt;a{margin-top:1.70454rem}html .mectrlimageplaceholder{height:4.0909rem;width:4.0909rem}html .mectrlimageplaceholder::after{font-size:4.88635rem}html .mectrlname{font-size:1.36818rem;line-height:3.86362rem}html .mectrlsignin{line-height:7.2727rem}html .msame_Header_pic{height:5.6818rem}}
+</style>
+
+<link rel="stylesheet" href="//static-finance-eus-s-msn-com.akamaized.net/en-us/money/_sc/css/f15f847b-3712f51d/direction=ltr.locales=en-us.themes=green.dpi=resolution1x/3b-ac30cb-8e2290d4/f3-b9e9a5-68ddb2ab/bc-6d31e3-4da0aefe/fa-a550e2-2caea010/d6-44ea03-38ba0dc7/26-21607d-1d8faa82/8c-ef9f69-67b4a92b/finance-css-b2-7f06b1414cab32f559b7336b348b64-988fb79c/bb-4c2860-1c1809bb/db-f54f1b-b73b430e/a6-2b6b6f-c349af99/finance-css-c9-5a5262715566f8182a2be8cd51b5e9-3c5d3afb/finance-css-29-7aecae0db0ac75578985234061254b-8b843dc1/dc-acb84b-f10aff9a/18-554873-5dae8eeb/finance-css-39-30d2b20caa3a65584777a657acad0b-2cb778c0/b3-d9401a-29cd982d?ver=2.0.6241.39707&amp;fdhead=legacyss,noscrollplay,muidflt11cf,muidflt28cf,refilters-t3,muidflt58cf,muidflt258cf,shistoryc&amp;ocid=spartandhp&amp;csopd=20170127105637&amp;csopdb=20170202192616" type="text/css" media="all" /><script>(function(n,t){function o(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n=="c.dom"&&(a=!0);s(n,i,r)}function s(n,t,i,r){var e,o,s;if(!n||!u[n]){if(e=g(n,t),!e){f.push(r||{i:n,d:t,f:i});return}o=typeof i=="function";s=a&&o&&n!="dap"&&n!="adLoad"&&t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom");s?d(n,i,e,!0):k(o,n,i,e)}}function k(n,t,i,r){var u;u=n?i.apply(null,r):i;h(t,u)}function d(n,t,i,r){if(r)setTimeout(function(){var r=t.apply(null,i);h(n,r)},1);else{var u=t.apply(null,i);h(n,u)}}function h(t,i){t&&(i?(u[t]=i,v()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function v(){var r,u,n,t;if(f.length&&!i){do for(r=f,u=r.length,f=[],i=1,t=0;t<u;t++)n=r[t],s(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function g(i,r){for(var s,v,h,f=[],c=r?r.length:0,o=0;o<c;o++){var l=r[o],a=u[l],y=typeof a!="undefined";if(!y){if(s=b.exec(l),s)if(v=s[1],h=n[v],h!==t){f.push(h);continue}else e||(e=setTimeout(nt,w));break}f.push(a)}return c==f.length?f:0}function nt(){e=0;v()}function tt(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);it(n.js);r&&s(t,i,r)}function it(n){if(typeof n=="string")y(n);else if(n)for(var t=0;t<n.length;t++)y(n[t])}function y(n){if(!l[n]){l[n]=1;var i=document.getElementsByTagName("script")[0],t=document.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function rt(n){return p?n?r.now():Math.round(r.now()):new Date-c}var r=n.performance,c=((r||{}).timing||{}).navigationStart||(n._timing||{}).start||+new Date,p=r&&typeof r.now=="function",u={date:Date,document:document,image:Image,localStorage:n.localStorage,location:document.location,navigator:navigator,pageStart:c,pageTime:rt,screen:screen,window:n},f=[],i,w=50,e,l={},a=!1,b=/^window\.(.+)$/;o.amd={jQuery:1};o.is=function(n){return typeof u[n]!="undefined"};n.define=o;n.require=tt})(window);define("perfPing",function(){function n(n){require(["w3cTimer"],n)}function t(t){n(function(n){n.mark(t)})}function i(t){n(function(n){n.fire();typeof t=="function"&&t(n.payload)})}return{setMarker:t,getPayLoad:i}});define("perfMarker",["window"],function(n){function h(){return u?t.now()|0:i&&e()-i}var t=n.performance;if(!t)return function(){};var u=typeof t.now=="function",f=typeof t.mark=="function",i=(t.timing||{}).navigationStart,e=typeof Date.now=="function"?Date.now:function(){return+new Date},o,r=n._pageTimings||(n._pageTimings={}),s=!1;return function(n,u,e){var c,l;typeof n!="string"||u&&r[n]&&!e||(c=typeof u=="number",c||(f&&t.mark(n),o&&console.timeStamp(n)),(u||s)&&(l=c?Math.round(u-i):h(),r[n]=l))}});require(["perfMarker"],function(n){function r(r){if(!i){t&&clearTimeout(t);n("TTAFImgs"+(r?"_timeout":""),!0);define("c.ttafImgsReady",1);i=!0}}var u=0,f=1e4,t,i;window.imgTTAF=function(n,e){i||(t||(t=setTimeout(function(){r(!0)},e||f)),++u>=n&&r())}})</script><script async="async"  src="//o.aolcdn.com/ads/adswrappermsni.js"></script><script async="async"  src="//static-hp-eus.s-msn.com/_h/975a7d20/webcore/externalscripts/jquery/jquery-2.1.1.min.js" crossorigin="anonymous"></script><script async="async"  src="//static-finance-eus-s-msn-com.akamaized.net/en-us/money/_sc/js/f15f847b-33607ae9/direction=ltr.locales=en-us.themes=green.dpi=resolution1x/bd-67642f-2f53872b/c7-04be2b-68ddb2ab/e0-8d4c43-5599dabd/7c-e39ec7-68ddb2ab/2d-6751d7-68ddb2ab/finance-js-00-a5dda3b7fbd77b9528327d3a2eb820-5e6668c/e9-3815b5-d1f8fb43/d8-a52999-a1fa1223/finance-js-4d-c38e750ec5feef0efa4a08f86e03d3-74fcd2cb/finance-js-2a-d663720b09493e5be9aebeaa62dc9d-68ddb2ab/finance-js-1a-989fa9c82a099f67950b2e4b2e27cc-68ddb2ab/1c-82c728-bc0aeda0?ver=2.0.6241.39707&amp;fdhead=legacyss,noscrollplay,muidflt11cf,muidflt28cf,refilters-t3,muidflt58cf,muidflt258cf,shistoryc&amp;ocid=spartandhp&amp;csopd=20170127105637&amp;csopdb=20170202192616" crossorigin="anonymous"></script><script>define("headData",["evaluate","document"],function(n,t){var r=t.getElementsByTagName("head")[0],i,u,f;return r?(i={},u=r.getAttribute("data-js"),u&&(i=n(u)),f=r.getAttribute("data-client-settings"),f&&(i.clientSettings=n(f)),i.xdid=r.getAttribute("data-xd-id"),i.locale=t.getElementsByTagName("html")[0].getAttribute("lang").toLowerCase(),i):{}});define("deviceGroup",function(){return{isTmx:1,isPc:1,isSpartan:1}});define("measure",function(){return function(n,t){var i=window.getComputedStyle(n);return t?i[t]||i.getPropertyValue(t):function(n){return i[n]||i.getPropertyValue(n)}}});define("deviceInit",function(){function u(i){return n[t(i)]}function f(i){return n[t(i)]=="true"}var n={},t=function(n){return n.toUpperCase()},i,r={capability:u,isCapable:f};return function(u){var f,e;if(i)throw"device was already initialized.";for(f in u)e=u[f],n[t(f)]=e;i=1;define("device",r)}});define("requestAnimationFrame",["window"],function(n){return function(){return n.requestAnimationFrame||n.webkitRequestAnimationFrame||n.mozRequestAnimationFrame||n.oRequestAnimationFrame||n.msRequestAnimationFrame||function(t){typeof t=="function"&&n.setTimeout(t,16.7)}}()});define("mediator",function(){function i(n){return t[n]||(t[n]=new r),t[n]}function r(){var n={};return{pub:function(t,i){var u=n[t],r;if(u)for(r=0;r<u.length;r++)u[r](i)},sub:function(t,i){if(typeof i=="function"){var r=n[t];r||(r=[],n[t]=r);r.push(i)}},unsub:function(t,i){var u=n[t],r;if(u)for(r=0;r<u.length;r++)u[r]===i&&u.splice(r--,1)}}}var n=new r,t={};return{pub:n.pub,sub:n.sub,unsub:n.unsub,pubChannel:function(n,t,r){i(t).pub(n,r)},subChannel:function(n,t,r){i(t).sub(n,r)},unsubChannel:function(n,t,r){i(t).unsub(n,r)}}});define("mediaQueryMatch",["device","deviceGroup","mediator","requestAnimationFrame","window"],function(n,t,i,r,u){function s(){function e(n,t){var i=n.exec(t);return i?i[1]*16:null}function n(){r(function(){t=u.innerWidth;f=u.innerHeight;for(var n=0;n<o.length;n++)h(o[n])})}function h(n){var r=p(n),t,i;if(n.matches!=r)for(n.matches=r,i=0;t=n.queryFunctions[i];i++)typeof t=="function"&&t()}function p(n){var i=!n.maxWidth||t<=n.maxWidth,r=!n.minWidth||t>=n.minWidth,u=!n.maxHeight||f<=n.maxHeight,e=!n.minHeight||f>=n.minHeight;return i&&r&&u&&e}function c(n){return{isMatching:function(){return!1},addListener:function(){},matches:!1,media:n,queryFunctions:[]}}var l=/min\-width\:\s*(\d+(\.\d+)?)/,a=/max\-width\:\s*(\d+(\.\d+)?)/,v=/min\-height\:\s*(\d+(\.\d+)?)/,y=/max\-height\:\s*(\d+(\.\d+)?)/,t,f,o=[],s;return require(["jquery"],function(t){t(u).resize(function(){clearTimeout(s);s=setTimeout(n,50)});require(["c.deferred"],n);setTimeout(n,500);i.subChannel("update","mediaQuery",n)}),function(i){if(!i)return c(i);var r={addListener:function(n){typeof n=="function"&&r.queryFunctions.push(n)},isMatching:function(){return n(),r.matches},matches:!1,media:i,queryFunctions:[]};return(r.minWidth=e(l,i),r.maxWidth=e(a,i),r.minHeight=e(v,i),r.maxHeight=e(y,i),!r.minWidth&&!r.maxWidth&&!r.minHeight&&!r.maxHeight)?c(i):(t=u.innerWidth,f=u.innerHeight,h(r),o.push(r),r)}}function h(n){var t=f(n);return t.isMatching=function(){return t.matches},t}var f=u.msMatchMedia||u.matchMedia,e=f?h:null,o=n.isCapable("UseCustomMatchMedia");return!o&&e||s()});define("scaledView",["mediaQueryMatch"],function(n){function r(t){var i=n(t);return i.addListener(u),i.matches}function u(n){t=n.matches;for(var r,u=0;r=i[u];++u)r(t)}var t=!1,i=[];return t=r("screen and (min-width: 837px) and (max-width: 942px)"),t=r("screen and (min-width: 1152px) and (max-width: 1264px)")||t,{addListener:function(n){typeof n=="function"&&i.push(n)},removeListener:function(n){for(var r,t=i.length-1;r=i[t];--t)r==n&&i.splice(t,1)},isScaled:function(){return t}}});require(["measure","scaledView","document"],function(n,t,i){function u(){r=f.rem=parseFloat(n(i.getElementsByTagName("head")[0],"font-size"))}function f(n){return n*r}function e(n){return n/r}var r;t.addListener(u);u();define("remToPixel",function(){return f});define("pixelToRem",function(){return e})});define("viewAwareInit",["deviceGroup","pageTime","mediaQueryMatch","document","remToPixel"],function(n,t,i,r){return function(t){function f(n,t){var r,u,f;n&&(r=n.match(/calc\((.*?)\)/),r&&r.length==2&&(n=n.replace(r[0],eval(r[1]))),u=i(n),f=u.isMatching(),f&&(e=t),u.addListener(function(){u.matches&&s(t)}),h.push({mq:u,viewValue:t}))}function s(n){e=n;for(var t=0;t<o.length;t++)o[t](e)}var u={NONE:0,SIZE1COLUMN:1,SIZE2COLUMN:2,SIZE3COLUMN:4,SIZE4COLUMN:8,SIZE12COLUMN:3,SIZE23COLUMN:6,SIZE34COLUMN:12,SIZE234COLUMN:14,SIZE1ROW:256,SIZE1ROWSIZE1COLUMN:257,SIZE1ROWSIZE2COLUMN:258,SIZE1ROWSIZE3COLUMN:260,SIZE1ROWSIZE4COLUMN:264,SIZE2ROW:512,SIZE2ROWSIZE1COLUMN:513,SIZE2ROWSIZE2COLUMN:514,SIZE2ROWSIZE3COLUMN:516,SIZE2ROWSIZE4COLUMN:520,ALL:783},o=[],h=[],e=n.isMobile?u.SIZE1ROWSIZE1COLUMN:u.SIZE2ROWSIZE4COLUMN;f(t.size1rowsize1column,u.SIZE1ROWSIZE1COLUMN);f(t.size2rowsize1column,u.SIZE2ROWSIZE1COLUMN);f(t.size1rowsize2column,u.SIZE1ROWSIZE2COLUMN);f(t.size2rowsize2column,u.SIZE2ROWSIZE2COLUMN);f(t.size1rowsize3column,u.SIZE1ROWSIZE3COLUMN);f(t.size2rowsize3column,u.SIZE2ROWSIZE3COLUMN);f(t.size1rowsize4column,u.SIZE1ROWSIZE4COLUMN);f(t.size2rowsize4column,u.SIZE2ROWSIZE4COLUMN);s(e);define("viewAware",{listen:function(n){typeof n=="function"&&(o.push(n),n(e))},views:u,currentView:function(){return e}})}});define("evaluate",function(){return window.JSON&&window.JSON.parse||function(n){return eval("("+n+")")}});define("screenDpiImpl",function(){return function(n){function t(){navigator.msManipulationViewsEnabled||(n.refresh=!0);var t=window.screen.deviceXDPI==window.screen.logicalXDPI?320:160;return n.dpio?n.server:window.screen.availWidth>window.screen.availHeight?window.screen.availHeight/t:window.screen.availWidth/t}return navigator.msManipulationViewsEnabled?window.screen.deviceXDPI/window.screen.logicalXDPI:t()}});define("dpi",["screenDpiImpl","headData","measure","deviceGroup","document","window","location"],function(n,t,i,r,u,f,e){var a=t.dpi||1,o={screen:1,detected:t.ddpi,override:t.dpio,forceServerDpi:t.forcedpi||!(typeof navigator.msManipulationViewsEnabled=="undefined"?!0:navigator.msManipulationViewsEnabled),server:a,client:a,dpiMultiplier:1,sizeMultiplier:1,refresh:!1},h,v,s,c,l;if(e.href.indexOf("nodpi=1")==-1&&(o.screen=n(o)),h=[1],v=/<link[^>]*rel="stylesheet"[^>]*href="([^"]*)"[^>]*\/>/ig,o.forceServerDpi===!0)t.dpi=t.ddpi;else if(o.server!=o.screen){for(s=0;s<h.length;s++)if(c=h[s],o.screen<=c||s==h.length-1){o.dpiMultiplier=(o.client=c)/o.server;break}o.client!=o.server&&(u.cookie="dpio="+o.client+";path=/",o.refresh&&e.href.indexOf("dpir=1")==-1&&e.href.indexOf("dpio=")==-1&&require(["navigation"],function(n){var t=e.href.replace(/dpio=[\d.]*/,"");t+=(t.indexOf("?")==-1?"?":"&")+"dpir=1";n.navigate(t,!0)}))}return l=parseFloat(i(u.documentElement,"font-size")),l&&(o.sizeMultiplier=l/10/o.client),o});define("escape",["window"],function(n){function r(t){return t!=null&&n.encodeURI(t)||""}function u(t){return t!=null&&n.encodeURIComponent(t)||""}function f(n){return n!=null&&(""+n).replace(t,function(n){return i[n]||""})||""}var t=/["&'\/<>]/g,i={'"':"&quot;","&":"&amp;","'":"&#39;","/":"&#47;","<":"&lt;",">":"&gt;"};return{url:r,urlPart:u,html:f}});define("classList",function(){function i(n){return t[n]||(t[n]=new RegExp("(\\s|^)"+n+"(\\s|$)"))}function n(n,t){return n?n.classList?n.classList.contains(t):n.className?n.className.match(i(t)):!1:!1}function r(t,i){t&&(t.classList?t.classList.add(i):n(t,i)||(t.className+=" "+i))}function f(t,i){t&&(t.classList?t.classList.toggle(i):n(t,i)?u(t,i):r(t,i))}function u(t,r){t&&(t.classList?t.classList.remove(r):n(t,r)&&(t.className=t.className?t.className.replace(i(r)," "):!1))}var t=[];return{add:r,remove:u,toggle:f,contains:n}});define("viewport",["mediator","requestAnimationFrame","window","document"],function(n,t,i,r){function kt(){l=at();a=lt();(l!=s||a!=f)&&(u=!0,e=!0)}function g(){return{left:s,right:et,top:f,bottom:ot,width:h,height:c}}function ht(){u&&(s=l||at(),f=a||lt(),l=a=null,!nt&&f>yt&&(nt=!0,setTimeout(function(){define("c.scrolled",1)},ft)));o&&(h=i.innerWidth||r.documentElement.clientWidth,c=i.innerHeight||r.documentElement.clientHeight);(u||o)&&(et=s+h,ot=f+c);u=o=!1}function w(){if(e){pt=new Date;e=!1;var i=o,r=u,l=h,a=c,v=s,y=f;ht();i=i&&(a!=c||l!=h);r=r&&(v!=s||y!=f);i||r?(b||(b=setTimeout(function(){b=0;var t=g();n.pub(tt,t);r&&n.pub(it,t);i&&n.pub(rt,t)},ft)),dt(),setTimeout(w,ut)):t(w)}else t(w)}function dt(){v&&(st=+new Date,y||(y=setTimeout(function t(){y=v=!1;var i=new Date-st;i>d?n.pub(bt,k):y=setTimeout(t,d-i)},d)))}function ct(){u=!0;o=!0;e=!0}function lt(){if(typeof pageYOffset!="undefined")return pageYOffset;var t=r.body,n=r.documentElement;return n=n.clientHeight?n:t,n.scrollTop}function at(){if(typeof i.pageXOffset!="undefined")return i.pageXOffset;var t=r.body,n=r.documentElement;return n=n.clientWidth?n:t,n.scrollLeft}function gt(n){for(var i=null,t;n&&n.nodeName!="BODY"&&n.nodeName!="HTML";){if(t=n.getAttribute(wt),t){t=t.split(";");i={x:parseInt(t[0])||0,y:parseInt(t[1])||0};break}n=n.parentNode}return i}function ni(n,t,i,r){var u=n.getBoundingClientRect();if(!u.top&&!u.right&&!u.bottom&&!u.left)return 0;r||(r=g());var o=r.width*(t||0),s=r.height*(i||0),h={left:-o,right:r.width+o,top:0-s,bottom:r.bottom+s},f={left:u.left,right:u.right,top:u.top,bottom:u.bottom},e=gt(n.parentNode);return e&&(f.left+=e.x,f.right+=e.x,f.top+=e.y,f.bottom+=e.y),ti(h,f)}function ti(n,t){return!(t.left>n.right||t.right<n.left||t.top>n.bottom||t.bottom<n.top)}function vt(n,t){i.addEventListener(n,t,!1)}var e=!0,u=!0,o=!0,l=null,a=null,yt=10,nt,tt="viewport_change",it="viewport_scroll_change",rt="viewport_size_change",ut=parseInt("")||200,ft=50,b,s=0,et=0,f=0,ot=0,h=0,c=0,pt,wt="data-offset",k="",v=!1,y=0,d=1e3,st,bt="ViewabilityUpdatedEvent",p;return ht(),require(["c.dom"],ct),p="c.deferred",require([p],function(){i.setInterval(kt,ut);t(w)}),require([p],ct),vt("resize",function(){v=!0;k="resize";o=!0;e=!0}),vt("scroll",function(){v=!0;k="scroll";u=!0;e=!0}),{getDimensions:function(){return g()},changeEventName:tt,sizeChangeEventName:rt,scrollChangeEventName:it,isInViewport:ni,deferredCanaryName:p}});require(["window"],function(n){n._llic=function(n){require(["imgSrc"],function(t){t.checkLoad(n)})}});define("imgSrc",["viewAware","measure","dpi","evaluate","mediator","viewport","classList","window","document","image","headData","logging","perfMarker"],function(n,t,i,r,u,f,e,o,s,h,c,l){function ai(){u.sub(f.changeEventName,function(n){var t=Math.abs(n.left-w.left+n.width-w.width),i=Math.abs(n.top-w.top+n.height-w.height);(t>vt()||i>yt())&&(vt=function(){return n.width/4},yt=function(){return n.height/4},w=n,b())})}function vi(){y=[]}function yi(n,t){var i=n.getAttribute(t);if(i)try{return r(i)}catch(u){l.error("[imgSrc] error evaluating the '"+t+"' attribute: '"+i+"'",u)}}function pi(n,t){var u=!1,i=st(n),r;return i&&i.src&&t&&typeof t.find=="function"&&typeof t.filter=="function"&&(r=t.find("img[data-src]").filter(function(){return this.imgSrcObj&&this.imgSrcObj.loadedSrc==i.src}),r.length&&(i.loadingSrc=i.src,n.imgSrcObj=i,ii(n,i,r[0]),u=!0)),u}function st(n,t){var i=yi(n,ci),f,r,u;if(i){if(f=i.dpi||1,i=i[a]!==t?i[a]:i[v]!==t?i[v]:i["default"],r=typeof i,r=="string")i={src:i};else if(r!="object"||!i)return null;return i.dpi=f,i.src?(u=i.src.indexOf("//"),u>0&&(i.src=i.src.substring(u)),i.src=di(i.src,ei)):i.src=bt,i}return null}function dt(n,t){var i,r;return kt?(n.onload=null,i=st(n),i&&(r=wi(n,i,t),r&&k(n,i,!0)),r):!1}function wi(n,t,i){return kt==2?!0:t.load=="wait"||t.load=="defer"?!1:e.contains(n,"wait")?!1:e.contains(n,"defer")?!1:n.getAttribute(it)?!1:gt(n)?ht(n,t)?(i||f.isInViewport(n,0,0))?!0:!1:!1:!1}function bi(t){var i=g&&g!=t;g=t;switch(t){case n.views.SIZE1ROWSIZE1COLUMN:a="size1rowsize1column";v="size1column";break;case n.views.SIZE2ROWSIZE1COLUMN:a="size2rowsize1column";v="size1column";break;case n.views.SIZE1ROWSIZE2COLUMN:a="size1rowsize2column";v="size2column";break;case n.views.SIZE2ROWSIZE2COLUMN:a="size2rowsize2column";v="size2column";break;case n.views.SIZE1ROWSIZE3COLUMN:a="size1rowsize3column";v="size3column";break;case n.views.SIZE2ROWSIZE3COLUMN:a="size2rowsize3column";v="size3column";break;case n.views.SIZE1ROWSIZE4COLUMN:a="size1rowsize4column";v="size4column";break;default:a="size2rowsize4column";v="size4column"}i&&b()}function ki(n){return(n||s).getElementsByTagName("img")}function b(n){var o,u,i;if(ot)for(o=0,u=ki(n),i=0;i<u.length;i++){var t=u[i],r=ri(t),s=r&&r.load!="wait"&&!e.contains(t,"wait")&&!t.getAttribute(it)&&ht(t,r)&&(e.contains(t,"defer")||gt(t)&&f.isInViewport(t,si,hi));s&&(o++,k(t,r))}}function gt(n){do{if(t(n,"display")=="none")return!1;n=n.parentNode}while(n&&n.nodeName!="BODY");return!0}function di(n,t){var i=n.match(li);return i&&i[p]!=t?n.replace(i[0],i[0].replace(i[p],t)):n}function gi(n,t){var r=n.match(pt),u,i,f;return r&&(u=r[p]*t+.5|0,n=n.replace(r[0],r[0].replace(r[p],u))),i=n.match(wt),i&&(f=i[p]*t+.5|0,n=n.replace(i[0],i[0].replace(i[p],f))),n}function nr(){tt=clearTimeout(tt)}function ni(){tt=setTimeout(function(){var t,n;for(ct=!0,t=0;t<y.length;t++)n=y[t],n.showFn&&(n.showFn(),n.showFn=null,n.shown=!0)},oi)}function ti(n,t,i){var u=n.imgSrcObj,f,e,o,r;if(i.src==u.loadingSrc){if(ct||u.shown){t();return}for(u.showFn=t,f=0;f<u.id;f++)if(e=y[f],e.isInViewport&&!e.shown){if(e.loadingSrc.load!=u.loadingSrc.load)continue;ni();return}for(o=u.id;o<y.length;o++)if(r=y[o],!r.shown&&r.isInViewport)if(r.showFn)nr(),r.showFn(),r.showFn=null,r.shown=!0;else{ni();return}}}function tr(n,t,i){var r=d(n);t.src==r.loadingSrc&&(t.lowq&&i.loadingSrc==t.lowq?(t.lowqLoaded=!0,e.remove(n,at),k(n,t)):(n.src=t.src,e.remove(n,ft),e.remove(n,et),e.add(n,ut)))}function ii(n,t,r){var u=d(n);t.src==u.loadingSrc&&(u.loadedSrc=t.src,i.sizeMultiplier>1&&(n.width=r.width*i.sizeMultiplier+.5|0),n.removeAttribute("height"),n.src=r.src,t.lowq&&r.loadingSrc==t.lowq?(t.lowqLoaded=!0,e.remove(n,at),k(n,t)):(e.add(n,et),e.remove(n,ut),e.remove(n,ft)))}function ht(n,t){if(!t||!t.src)return!1;var i=d(n);return i.loadedSrc!=t.src&&t.src!=i.loadingSrc}function ri(n,t){if(!n)return null;if(t)t.src||(t={src:t});else{if(t=st(n),!t)return null;var r=t.dpi||1;r!=i.client&&(t.src=gi(t.src,i.client/r))}return t}function ui(n,t){n&&(t=ri(n,t),ht(n,t)&&k(n,t))}function d(n){var t=n.imgSrcObj;return t||n.nodeName!="IMG"||(t={img:n,id:y.length},n.imgSrcObj=t,y[n.imgSrcObj.id]=t),t}function k(n,t){var r=d(n,t),u,i;r.isInViewport===undefined&&(r.isInViewport=!0);r.loadingSrc=t.src;t.w&&t.h?n.setAttribute(rt,"width:"+t.w+"rem;height:"+t.h+"rem;"):n.hasAttribute(rt)&&n.removeAttribute(rt);e.add(n,ft);e.remove(n,et);e.remove(n,ut);u=(t.lowqLoaded?null:t.lowq)||t.src;i=new h;i.onload=function(){i.onload=null;i.onerror=null;ti(n,function(){ii(n,t,i)},t)};i.onerror=function(){i.onload=null;i.onerror=null;ti(n,function(){tr(n,t,i)},t)};i.src=i.loadingSrc=u}var g,a,v,nt=(c.clientSettings||{}).imgsrc||{},ei=nt.quality_high||60,ir=nt.quality_low||5,oi=nt.order_timeout||1e3,si=1,hi=1,ct=!1,tt,lt=100*i.client,it="data-noupdate",ci="data-src",rt="style",ut="err",ft="loading",et="loaded",at="lowq",vt=function(){return 10},yt=function(){return 10},y=[],p=2,pt=/([?&]w=|_w)(\d+)/,wt=/([?&]h=|_h)(\d+)/,li=/([?&]q=|_q)(\d+)/,bt="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7",kt={all:0,auto:1,none:2}[(location.search.match(/[?&]llibf=([^&#]+)/i)||[])[1]]||1,w,ot;return o._llic=dt,w=f.getDimensions(),n.listen(bi),ot=!1,require(["c.deferred"],function(){ot=!0;ai();b()}),o.loadDeferredImages=b,{go:ui,reset:ui,noUpdate:it,data:bt,checkLoad:dt,isInViewport:f.isInViewport,loadInViewport:b,dataOffsetAttr:"data-offset",force:pi,clearImages:vi}});define("imageLoad",["imgSrc","classList","document","window"],function(n,t,i,r){function a(){s();n.isInViewport?y():u(i.querySelectorAll("main img[data-src]"),c)}function s(n){f(".ip .swipenav>li:first-child+li img,.carousel .slides li+li img","defer",n);f(".sip .swipenav>li:first-child+li img,.carousel .slides li+li img","defer",n);f(".ip .swipenav>li+li+li img","wait",n);f(".sip .swipenav>li+li+li img","wait",n)}function v(n,t){typeof n=="string"&&(n=i.querySelector(n));s(n);o(n,t)}function y(){e=!1;h(i.getElementById("precontent"));u((i.getElementById("main")||{}).childNodes,p);h(i.getElementById("aside"))}function p(i){var r=!1,u;return!t.contains(i,"mestripeouter")&&i.querySelector("img[data-src]")&&(u=n.isInViewport(i,0,0),u?(e=!0,o(i)):e&&(r=!0)),r}function h(t){var i=!1;return t&&t.querySelector("img[data-src]")&&n.isInViewport(t,0,0)&&(i=!0,o(t)),i}function o(n,t){u(n.querySelectorAll("img[data-src]"),function(n){c(n,t)})}function c(n){var i;!n||n.src&&(t.contains(n,"loaded")||t.contains(n,"loading"))||l(n,i)&&n.setAttribute("data-initial-set","true")}function u(n,t){var i,r;if(n&&n.length)for(i=0;r=n[i];++i)if(r.nodeType==1&&t(r))break}function f(n,r,f){u((f||i).querySelectorAll(n),function(n){t.add(n,r)})}var l=n.checkLoad||r._llic,e;return{cleanup:a,module:v}});define("adCommon",["document","pageTime","classList","headData","viewAware"],function(n,t,i,r,u){function s(n,t,i){n&&typeof t=="function"&&i&&(i[n]?i[n].push(t):i[n]=[t])}function h(n,t,i,r){var f,u;t&&i&&(f=5,t.divid=t.divid||t.divName,t.msnSdkName=r,u=setInterval(function(){if(i[n]&&i[n].length){for(var r=0;r<i[n].length;r++)i[n][r](t);clearInterval(u)}else f--||clearInterval(u)},500))}function c(n,t,i){n&&t&&i!==null&&typeof i!=undefined&&(n[t]=i)}function l(){var t=n.body,r;return t&&(r=i.contains(t,"startpage")?"homepage":i.contains(t,"ap")?"article":i.contains(t,"gp")?"gallery":i.contains(t,"homepage")?"vlp":i.contains(t,"structured")?"structured":"NA"),r}function a(){return o("MUID")}function v(){var n=r.locale.split("-");return n.length>1?n[1].toUpperCase():null}function y(){return o("TOptOut")}function f(t,i){return i&&i.forcefulVisibilityInEffect?i.forceVisibilityOn:i&&i.options&&i.options.scrollInit?t&&(t.top||t.bottom||t.left||t.right)&&t.top<=(window.innerHeight||n.documentElement.clientHeight)&&t.bottom>=0&&t.left<=(window.innerWidth||n.documentElement.clientWidth)&&t.right>=0:!0}function p(t,r,u,f,e){var o=e||((n.getElementById(t)||{}).parentNode||{}).parentNode,s,h;o&&(((o.querySelector(".adchoices,.adchoicesjs")||{}).style||{}).display=f?"block":"none",r)&&(s=i.contains(o,"widead"),u||s)&&(o.style.display="",o.style.visibility="visible",s&&(h=o.querySelector(".outeradcontainer"),h&&(h.style.display="inline-block")))}function w(n,i,r,u){if(n&&i){var f=t();n[i]||(n[i]={});r?n[i].st=f:(n[i].en=f,u&&(n[i].r=u))}}function b(n,t){n&&(n.forcefulVisibilityInEffect||(n.clientRect=n.elem.getBoundingClientRect()),n.isVisible=f(n.clientRect,n),n.canBeDisplayed=e(n,t)&&!n.shouldHideAds,n.canBeDisplayed|=n.forceDisplayOn||n.canBeDisplayed)}function e(n,t){return t=t||u.currentView(),!!(t&n.allowedViews)}function o(t){var r=new RegExp("\\b"+t+"\\s*=\\s*([^;]*)","i"),i=r.exec(n.cookie);return i&&i.length>1?i[1]:""}function k(){return window.performance&&typeof window.performance.now=="function"?window.performance.now():(new Date).getTime()}function d(){var u=[],f=((/f:\s*([^;]+)/i.exec(n.getElementsByTagName("head")[0].getAttribute("data-info"))||{})[1]||"").toLowerCase(),r,t,i;if(f)for(r=f.split(","),t=0;t<r.length;t++)i=r[t],i&&i.indexOf("adflt-")===0&&u.push(i);return u}return{addEventListener:s,callEventHandlers:h,eventTypes:{AdRequested:"AdRequested",BeforeAdRender:"BeforeAdRender",AdRefreshed:"AdRefreshed",ErrorOccurred:"ErrorOccurred",AdNoBid:"AdNoBid"},isPlacementVisible:f,setAdContainerDisplayState:p,updateElementData:c,isAllowedInView:e,recordTiming:w,checkAndSetAdVisibility:b,getPageType:l,getOptOut:y,getMuid:a,getCountryCode:v,getCurrentTime:k,getAdFlights:d}});define("dap",["viewAware","document","adCommon","dapmgr","evaluate","classList","viewport","pageTime"],function(n,t,i,r,u,f,e){function s(s,y,d,et,ot,st){function ui(){var r=st&&st.forcefulVisibility,u=st&&st.forcefulDisplay,e=r===!0,o=u===!0,t,i,n;(c==undefined&&(c=st&&st.adaptiveRefresh===!0,c&&typeof st.adaptiveRefreshInterval=="number"&&(p=st.adaptiveRefreshInterval||p),c=!0),t=lt&&lt.parentNode&&lt.parentNode.parentNode,i=ut,t)&&(f.contains(t,"widead")?i=rt:f.contains(t,"groupad")&&(i=ft),n=b[et],typeof n!="number"&&(n=tt++,b[et]=n),ht={params:s,width:y,height:d,htmlid:et,options:st||{},allowedViews:si(),sizeCharacteristics:{},clientRect:lt.getBoundingClientRect(),isRendered:!1,isLoaded:!1,isVisible:!1,canBeDisplayed:!1,forcefulDisplayInEffect:o||u===!1,forceDisplayOn:o,forcefulVisibilityInEffect:e||r===!1,forceVisibilityOn:e,canDisplayAdChoices:!1,isMonitored:!1,elem:lt,adType:i,idx:v.length,telemetry:{},currentRefreshCount:n,friendlyId:"",pg:"",shouldHideAds:bt,completionCb:vi,refreshAd:gt,rd:p},ht.friendlyId=ht.htmlid.substr(0,it)+"_"+ht.idx,ht.pg=ci(s),v.push(ht),fi(),hi())}function fi(){o?(o.sub(e.scrollChangeEventName,at),o.sub("adrefresh",gt)):require(["mediator"],function(n){o=n;o.sub(e.scrollChangeEventName,at);st.enableAdRefresh&&o.sub("adrefresh",gt)})}function ei(){o?o.sub(e.scrollChangeEventName,at):require(["mediator"],function(n){o=n;o.sub(e.scrollChangeEventName,at)})}function ni(){o?o.unsub(e.scrollChangeEventName,at):require(["mediator"],function(n){o=n;o.unsub(e.scrollChangeEventName,at)})}function at(){vt()}function oi(){require(["adDetection"],function(n){ht.detectionObject=n(ht);ht.detectionObject.startDetection()})}function vt(){!ht||pt||ht.isRendered||(i.checkAndSetAdVisibility(ht,ct),i.setAdContainerDisplayState(ht.htmlid,ht.isVisible,ht.canBeDisplayed||ht.isRendered,ht.canDisplayAdChoices),ht.isVisible&&ht.canBeDisplayed)&&(r.sandboxOptions=ht.options.sandbox,r.useXDomainIframe=ht.options.useXDomainFrame,i.recordTiming(ht.telemetry,"dap",!0,null),r.renderAd(ht.htmlid,ht.params,ht.width,ht.height,!1,ht),i.recordTiming(ht.telemetry,"dap",!1,""),ht.st=i.getCurrentTime(),++k,ht.isRendered=!0,r.useXDomainIframe||oi(),ni(),h||(dt(),l=ti()),wt())}function ti(){var t=n.views;return ct&t.SIZE1COLUMN&&1||ct&t.SIZE2COLUMN&&2||ct&t.SIZE3COLUMN&&3||ct&t.SIZE4COLUMN&&4||0}function si(){var t,i;return lt&&(t=lt.getAttribute("data-adjs"),i=u(t).allowedViews,t)?n.views[i]||n.views.NONE:null}function hi(){ht&&vt()}function ci(n){return(ri.exec(n)||{})[1]||""}function wt(){if(ht){var n='{"w":'+a+',"h":'+w+',"c":'+l+',"v":'+(ht.isVisible?1:0)+',"d":'+(ht.canBeDisplayed?1:0)+',"r":'+(ht.isRendered?1:0)+',"s":'+yt+"}";ht.elem.setAttribute("data-ad",n)}}function dt(){var n=e.getDimensions(),i;h&&h.width==n.width||(h=n,i=t.getElementById(g),a=i?i.offsetWidth:n.width,w=n.height)}function gt(){ai();typeof ht.order=="number"?setTimeout(function(){vt()},ht.order):vt()}function li(){var t=ht.elem.querySelectorAll("iframe"),i,n;if(t&&t.length)for(n=t.length-1;n>=0;n--)try{t[n].src="about:blank";ii(t[n])}catch(r){}if(i=ht.elem.children,i&&i.length)for(n=i.length-1;n>=0;n--)ii(i[n])}function ii(n){n&&n.parentNode&&(typeof n.remove=="function"?n.remove():n.parentNode.removeChild(n))}function ai(){li();ht.isRendered=!1;ht.isLoaded=!1;ht.isVisible=!1;ht.canBeDisplayed=!1;ht.canDisplayAdChoices=!1;ht.sizeCharacteristics.adSizeType=nt;ht.alreadyCalled=!1;ni();ei()}function vi(){ht.isLoaded||(ht.isLoaded=!0,--k)}var ht,ct,yt,bt=!1,pt=!1,ri=/\bPG=([^&]*)/i,lt=t.getElementById(et),kt;(pt=st&&st.disableAds===!0,kt=st&&st.disableAdPlacement,bt|=pt,(bt||kt)&&(i.setAdContainerDisplayState(et,!0,!1,!1),pt||kt))||(n.listen(function(n){(ct=ct||n,ct!=n)&&(ct=n,l=ti(),dt(),wt(),vt())}),ui(),require(["scaledView"],function(n){yt=n.isScaled();wt();n.addListener(function(n){yt!=n&&(dt(),yt=n,wt())})}))}function d(){y.refreshAllAds()}var l,h,a,w,g="header-common",nt=0,o;r.enableUnblockingOnload&&r.enableUnblockingOnload(!0);var v=[],b={},tt=0,it=15,k=0,rt=0,ut=2,ft=3,c,y,p=3e3;return s.adPlacements=v,s.adLoadedEvent="adloaded",s.adRerenderedEvent="adrerendered",s.refresh=function(){y?d():require(["adRefresh"],function(n){y=n;d()})},s});var c="c.dom";require(["jquery","imgSrc","mediator",c],function(n,t,i){function r(){n("#main").children().addClass("loaded");t.loadInViewport(n("#main")[0]);i.pub("revealLoaded")}r()});define("autoSizeFlex",["jquery","jqBehavior","mediator","pixelToRem","dir.tokens"],function(n,t,i,r,u){function f(n){function e(){var i;(t=n.children(":visible").last(),f.length&&t.length)&&(i=u.ltr?t.offset().left-n.offset().left+t.outerWidth():f.offset().left-t.offset().left+f.outerWidth(!0),n.width(r(i)+"rem"))}var t,f=n.children().first();return i.sub("tabChanged",e),{setup:e,update:e}}return t(f)});require(["binding","c.dom"],function(n){n("autoSizeFlex",".autosizeflex").all()});define("allPageBindings",function(){return function(n){var t=function(t){t(n)};require(["pageBindings"],t);require(["pageBindings.pc"],t);require(["pageBindings.pc-!ms.ie10plus"],t)}});require(["allPageBindings"],function(n){n("html")});define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i});require(["logging","measure","document","c.onload"],function(n,t,i){var r=t(i.getElementsByTagName("head")[0]),u=r("boxSizing");u!="border-box"&&n.fatalError("C5001 Css was not loaded correctly.")});define("logging",["navigation","headData","requestAnimationFrame","window","document","pageTime","escape"],function(n,t,i,r,u,f,e){function rt(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function ut(){if(!o&&(o=n.getUrl(t.clientSettings.base_url+"_log"),!/[?&]fdhead=[^&#]*/i.test(o))){var i=(/\bf\:([^;]*)/.exec(u.getElementsByTagName("head")[0].getAttribute("data-info"))||{})[1]||"";i&&(o+=(o.indexOf("?")>0?"&":"?")+"fdhead="+i)}return o}function g(){c&&k&&!p&&(p=setTimeout(function(){(p=0,s.length)&&(d.ajax({type:"POST",url:ut(),data:{aid:t.clientSettings.aid,v:t.clientSettings.v,messages:s},error:function(n,t,i){a("error","[506] Could not log: "+n+" - "+t+" "+i);c=!1}}),s=[])},2e3))}function l(n,t){return(t==b&&n.indexOf("Script error")>=0&&(t=h),t==h)?"warn":t==y?"info":(c&&(s.push({m:e.urlPart(n),t:t,d:f()}),g()),t==y?"info":t==h?"warn":"error")}function a(n,t,i){if(r.console){if(!i&&n=="info")return;if(!i&&n=="warn")return;var u=console[n];u&&typeof u=="function"?console[n](t):console.log&&console.log(t)}}function v(n){var r=[],t,i;if(n)for(t=0;t<n.length;++t)i=nt(n[t]),i&&r.push(i);return r.join(", ")}function nt(n,t,i,u,f){var o=(n==null||typeof n=="string"?n:n.message||n.description)||"",e,s;return!o&&(n!=null&&(typeof n=="object"&&n.toString()=="[object Event]"?(e=r.event,e&&e.type=="error"&&(o=e.errorMessage,t=e.errorUrl,i=e.errorLine,u=e.errorCharacter)):o=n.toString()),!o)?"":(t=n.url||n.filename||t,i=n.lineno||i,u=n.colno||u,s=n.stack||n.error&&n.error.stack,o.trim()+(f||"")+(i?"\nLine="+i:"")+(u?"\nColumn="+u:"")+(t?"\nScriptUrl="+t:"")+(s?"\nStack="+s:""))}function ft(){var n=v(arguments);l(n,it);i(function(){var i=e.html("http://"+u.location.host),n=e.url(u.location.href);n.indexOf("https://")==0&&(n=n.replace("https://","http://"));u.getElementsByTagName("body")[0].innerHTML="<style>body{font-family:Arial;margin-left:40px}img{border:0 none}#content{margin-left:auto;margin-right:auto}#message h2{font-size:20px;font-weight:normal;color:#000;margin:34px 0 0 0}#message p{font-size:13px;color:#000;margin:7px 0 0 0}#errorref{font-size:11px;color:#737373;margin-top:41px}<\/style><div id='content'><div id='message'><h2>This page is not available right now<\/h2><p>We're working to restore it as soon as possible. Please check back soon.<br/><br/><a href=\""+e.html(n)+'">Click here<\/a> to try this page again, or visit: <a href="'+i+'">'+i+"<\/a><\/p><\/div><div id='errorref'><span>Ref 1: "+e.html(t.clientSettings.aid)+"&nbsp;&nbsp;&nbsp;Ref 2: "+e.html(t.clientSettings.sid||"000000")+"&nbsp;&nbsp;&nbsp;Ref 3: "+e.html(new Date)+"<\/span><\/div><\/div>"})}function tt(){var n=v(arguments);a(l(n,b),n,!0)}function et(){var n=v(arguments);a(l(n,h),n)}function ot(){var n=v(arguments);a(l(n,y),n)}function st(n){(r.console||{}).timeStamp?console.timeStamp(n):(r.performance||{}).mark&&r.performance.mark(n)}var w=0,it=-1,b=0,h=1,y=2,s=[],p,k,d,o,c=Math.random()*100<=10;return rt(r,function(n,t,i,r){return w++,n=nt(n,t,i,r," [ENDMESSAGE]"),n&&tt("[SCRIPTERROR] "+n),!0}),c&&require(["jquery","c.deferred"],function(n){k=!0;d=n;s.length&&g()}),{error:tt,fatalError:ft,unhandledErrorCount:function(){return w},perfMark:st,warning:et,information:ot}});require(["viewAwareInit"],function(n){n({size2row:"(min-height: 48.75em)",size1row:"(max-height: 48.74em)",size4column:"(min-width: 72em)",size3column:"(min-width: 52.313em) and (max-width: 71.99em)",size2column:"(min-width: 43.75em) and (max-width: 52.303em)",size2rowsize4column:"(min-width: 72em) and (min-height: 48.75em)",size2rowsize3column:"(min-width: 52.313em) and (max-width: 71.99em) and (min-height: 48.75em)",size2rowsize2column:"(max-width: 52.303em) and (min-height: 48.75em)",size1rowsize4column:"(min-width: 72em) and (max-height: 48.74em)",size1rowsize3column:"(min-width: 52.313em) and (max-width: 71.99em) and (max-height: 48.74em)",size1rowsize2column:"(max-width: 52.303em) and (max-height: 48.74em)"})});require(["deviceInit"],function(n){n({AllowTransform3d:"false",AllowTransform2d:"true",RtlScrollLeftAdjustment:"fromLeft",ShowMoveTouchGestures:"true",SupportFixedPosition:"true",UseCustomMatchMedia:null,Viewport_Behavior:"Default",Viewport_Landscape:null,Viewport:"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no",IsMobileDevice:"false"})})</script><meta property="sharing_url" content="http://www.msn.com/en-us/money/watchlist"/><meta property="og:url" content="http://www.msn.com/en-us/money/watchlist"/><meta property="og:title" content="Portfolio manager and stock watchlist - MSN Money"/><meta property="og:type" content="website"/><meta property="og:site_name" content="MSN"/><meta property="og:image" content="http://static-finance-eus-s-msn-com.akamaized.net/sc/c6/519670.jpg"/><link rel="shortcut icon" href="//static-finance-eus-s-msn-com.akamaized.net/sc/b1/f9e423.ico" />        <script>_timing.head = +new Date</script>
+<style>.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}</style>        <script>
+            window._flushTimings && (window._flushTimings.HtmlHeadEnd = new Date - window.performance.timing.navigationStart);
+        </script>
+
+        
+
+</head>
+
+    <body class="green tmx pc edge spartan fltlegacyss fltnoscrollplay fltmuidflt11cf fltmuidflt28cf fltrefilters-t3 fltmuidflt58cf fltmuidflt258cf fltshistoryc">
+
+    <script>_timing.top = +new Date</script>
+            <script>
+                require(["headData", "pageInstance", "mediator"], function (headData, pageInstance, mediator)
+                {
+                    var url = '//c.msn.com/c.gif?udc=true&rid=6d63b3cae3c44a7e959e6164b50401de&rnd=636218638152593647&rf=&tp=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fmoney%252Fwatchlist%253Focid%253Dspartandhp&di=7290&lng=en-us&cv.product=prime&pn=watchlistpage&activityId=6d63b3cae3c44a7e959e6164b50401de&d.dgk=tmx.pc.edge.spartan&d.imd=0&st.dpt=Portfolio&st.sdpt=&subcvs=finance';
+                    if (headData && headData.clientSettings && headData.clientSettings.static_page)
+                    {
+                        mediator.pub(pageInstance.eventName);
+                        var rid = pageInstance.getActivityId();
+                        url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+                    }
+ 
+                    var img = new Image();
+                    img.onload = img.onerror = function ()
+                    {
+                        img.onload = img.onerror = null;
+                    };
+                    img.src = url;
+                    
+ });
+</script>
+ <script>
+/*<![CDATA[*/
+ require(["track","track.generic","c.track.mobi"],function(t,g,o){t.extend({"sitePage":{"department":"Portfolio","subDepartment":"","channel":"finance","pageName":"watchlistpage","autoRefresh":"0","requestId":"6d63b3cae3c44a7e959e6164b50401de","canvas":"Browser","vertical":"finance","entityId":"","entityCollectionId":"","entitySrc":"","cvAuthor":"","d_dgk":"tmx.pc.edge.spartan","d_imd":"0","cvPartner":"","cvPublcat":"","provid":"","templ":"","pageIndex":"","pageTotalCount":"","isStaticPage":"False","pageVersion":"15","contentType":"unknown_use_metadata_to_set_the_content_type","isCorePV":"","chartBeatUID":"42635","chartBeatDomain":"msn.com","chartBeatBase":"http://static.chartbeat.com","otfURL":"//otf.msn.com/c.gif?","flightid":"legacyss,noscrollplay,muidflt11cf,muidflt28cf,refilters-t3,muidflt58cf,muidflt258cf,shistoryc","exa":"legacyss,noscrollplay,muidflt11cf,muidflt28cf,refilters-t3,muidflt58cf,muidflt258cf,shistoryc","cvProduct":"prime","pageId":"WatchlistPage","storeocid":"msn","pageUrl":"http%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fwatchlist%3Focid%3Dspartandhp","device":"Unknown Unknown","domainId":"7290","propertyId":"","propertySpecifier":"","localeCode":"en-us"},"userStatic":{"isSignedIn":"True","beginRequestTicks":"636218638152593647"},"spinTimeOut":151,"enableOOB":1,"oobWaitTime":151});t.register(new g({"base":"//c.msn.com/c.gif?","id":"ctag","disableOnAutoRefresh":"scorecard","isGeneratedEarly":1,"impr":{"param":{'udc': 'true'},"paramMap":{"event":{'evt':'type'},"userDynamic":{'rid':'requestId','rnd':'timeStamp'},"client":{'rf':'referrer','tp':'pageUrl','scr':'screenResolution'},"sitePage":{'di':'domainId','lng':'localeCode','cv.product':'cvProduct','pn':'pageName','activityId':'requestId','d.dgk':'d_dgk','d.imd':'d_imd','st.dpt':'department','st.sdpt':'subDepartment','subcvs':'vertical'}}}}),new g({"base":"http://b.scorecardresearch.com/b?","id":"scorecard","disableOnAutoRefresh":"scorecard","isGeneratedEarly":0,"impr":{"param":{'c1': '2', 'c2': '3000001'},"paramMap":{"userDynamic":{'rn':'timeStamp'},"client":{'c7':'pageUrl','c8':'pageTitle','c9':'referrer'}}},"page_candidate":{"paramMap":{"event":{'evt':'type'},"userDynamic":{'rn':'timeStamp'},"client":{'c7':'pageUrl','c8':'pageTitle','c9':'referrer'}}}}),new g({"base":"//otf.msn.com/c.gif?","id":"udc","disableOnAutoRefresh":"scorecard","commonMap":{"userDynamic":{'rid':'requestId','cts':'timeStamp'},"client":{'clid':'clientId'},"sitePage":{'di':'domainId','mkt':'localeCode','pn':'pageName','su':'pageUrl','pid':'pageId','cv.product':'cvProduct','flightid':'flightid','activityId':'requestId','cvs':'canvas','subcvs':'vertical'}},"isGeneratedEarly":0,"impr":{"param":{'evt': 'impr', 'js': '1'},"paramMap":{"userStatic":{'pp':'isSignedIn'},"userDynamic":{'dv.snlogin':'settings','dv.grpfrmod':'defaultSlotTrees'},"client":{'rf':'referrer','cu':'pageUrl','scr':'screenResolution','bh':'height','bw':'width','dv.Title1':'pageTitle','viewType':'viewType','e1':'OTFTelemetry','prs':'personalization','scp':'sdcards'},"sitePage":{'st.dpt':'department','st.sdpt':'subDepartment','cv.partner':'cvPartner','cv.publcat':'cvPublcat','cv.author':'cvAuthor','CndEl':'conditionalItem','cv.entityId':'entityId','cv.entitySrc':'entitySrc','cv.parentId':'entityCollectionId','provid':'provid','ar':'autoRefresh','d.dgk':'d_dgk','d.imd':'d_imd','tmpl':'templ','isStaticPage':'isStaticPage','pgIdx':'pageIndex','pgTot':'pageTotalCount'},"custom":{'pb':'addCustomTags'}}},"click":{"paramMap":{"event":{'evt':'type'},"userDynamic":{'aop':'AOP','slidetype':'slideType','eventIndex':'eventNumber'},"client":{'gesture':'gesture','viewType':'viewType'},"sitePage":{'cv.product':'cvProduct'},"report":{'cm':'contentModule','hl':'headline','du':'destinationUrl','e1':'module','l':'nLineage','lo':'oLineage','TTI':'timeToInteract'},"custom":{'pb':'addCustomTagsForClickEvent'}}},"page_candidate":{"paramMap":{"event":{'evt':'type'}}},"unload":{"paramMap":{"event":{'evt':'type'},"client":{'frd':'frameData','wbh':'wasBrowserHiddenAtLeastOnce'}}},"app_error":{"paramMap":{"event":{'evt':'type'},"report":{'errId':'errId','errMsg':'errMsg','errSource':'errSource'}}}}));define("c.trackExtComplete", 1);t.trackPage();})
+//]]>
+</script>
+ <noscript>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=6d63b3cae3c44a7e959e6164b50401de&amp;rnd=636218638152593647&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fmoney%252Fwatchlist%253Focid%253Dspartandhp&amp;di=7290&amp;lng=en-us&amp;cv.product=prime&amp;pn=watchlistpage&amp;activityId=6d63b3cae3c44a7e959e6164b50401de&amp;d.dgk=tmx.pc.edge.spartan&amp;d.imd=0&amp;st.dpt=Portfolio&amp;st.sdpt=&amp;subcvs=finance" alt="image beacon" width="1" height="1" /><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636218638152593647&amp;c7=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fmoney%252Fwatchlist%253Focid%253Dspartandhp&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=7290&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252Fen-us%252Fmoney%252Fwatchlist%253Focid%253Dspartandhp&amp;pageid=WatchlistPage&amp;mkt=en-us&amp;pn=watchlistpage&amp;pp=True&amp;cv.product=prime&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=Portfolio&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636218638152593647&amp;rf=&amp;rid=6d63b3cae3c44a7e959e6164b50401de&amp;cvs=Browser&amp;subcvs=finance&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=tmx.pc.edge.spartan&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=6d63b3cae3c44a7e959e6164b50401de" alt="image beacon" width="1" height="1" />
+</noscript>
+
+    <div class="head">
+        
+
+
+<header id="header-common"  role="banner"  data-region="header"  data-id="1" data-m='{"i":1,"n":"header","y":6}'>
+ 
+
+
+
+
+ <h1 class="h1">
+  <a class="logo" aria-label="msn" href="/en-us"  data-id="2" data-m='{"i":2,"p":1,"n":"msnlogo","y":14,"l":"homepage","o":1}' tabindex="2">msn  <span class="logohover">back to msn home</span>
+</a>
+ <a aria-haspopup="true" class="vertical" href="/en-us/money/#tevt=click_nonnav"  data-id="3" data-m='{"i":3,"p":1,"n":"HeaderVerticalLink","y":14,"l":"finance","o":2}' tabindex="2">money</a>
+
+</h1>
+ <ul>
+<li>
+ 
+<section id="header-search" role="search"  data-aop="search"  data-id="4" data-m='{"i":4,"p":1,"n":"headersearch","y":9,"o":3}'>
+<form action="/en-us/money/searchresults?q=" method="get" id="srchfrm" target="_self" data-form-code="PRFISB"  data-shfc="PRFISH"  data-bing-action-uri="https://www.bing.com/search?scope=web">
+ 
+
+<div class="qc">
+<input id="q" name="q" accesskey="S" autocomplete="off" type="search" value="" maxlength="250"
+ placeholder="Search Quotes"
+  aria-label="Search:"
+  data-auto-suggest-settings="{&quot;cssclass&quot;:&quot;autosuggest&quot;,&quot;codefield&quot;:&quot;&quot;,&quot;endpoint&quot;:&quot;/en-us/money/autosuggest?query={0}&quot;}"
+  data-id="5" data-m='{"i":5,"p":4,"n":"searchinput","y":9,"o":1}'>
+
+ </div>
+<div class="buttons">
+ <button type="button" name="bingSearch" class="image"  title="web search"  data-id="6" data-m='{"i":6,"p":4,"n":"search_bingsearch","y":9,"o":2}'></button>
+  <button class="text vsrch"  title="search money">search money</button>
+ <button class="text vsrchx"  title="search">search</button>
+ <button type="button" name="bingSearch" class="text vsrch"  title="web search">web search</button>
+ </div>
+<input type="hidden" name="form" value="PRFISB">
+   <input type="hidden" name="mkt" value="en-us">
+   <input type="hidden" name="httpsmsn" value="1">
+  
+<input type="hidden" name="refig" value="6d63b3cae3c44a7e959e6164b50401de">
+
+</form>
+<button type="button"  title="web search" id="sb"  data-id="7" data-m='{"i":7,"p":4,"n":"search_sb","y":9,"o":3}'></button>
+ 
+</section>
+</li>
+ <li>
+  <ul id="user-profile"  data-sso-dependent="true" data-module-id="WatchlistPage||header|header-signin|signin" data-dhp_cookie_days="0"  data-id="8" data-m='{"i":8,"p":1,"n":"header-signin","t":"signin","o":4}'>
+ 
+<li id="username" >
+ <div id="meCtrl"  data-sign-in-url="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=13&amp;ct=1486267014&amp;rver=6.7.6643.0&amp;wp=LBI&amp;wreply=https:%2f%2fwww.msn.com%2fen-us%2fmoney%2fSecure%2fPassport%3fru%3dhttp%253a%252f%252fwww.msn.com%252fen-us%252fmoney%252fwatchlist%253focid%253dspartandhp%2526pfr%253d1&amp;lc=1033&amp;id=1184&amp;mkt=en-us&amp;pcexp=True" data-sign-out-url="https://login.live.com/logout.srf?ct=1486267015&amp;rver=6.7.6643.0&amp;lc=1033&amp;id=1184&amp;lru=https:%2f%2fwww.msn.com%2fen-us%2fmoney%2fSecure%2fPassport%3fru%3dhttp%253a%252f%252fwww.msn.com%252fen-us%252fmoney%252fwatchlist%253focid%253dspartandhp&amp;mkt=en-us&amp;pcexp=True" data-me-url="https://login.live.com/me.srf?wa=wsignin1.0&amp;rpsnv=13&amp;ct=1486267014&amp;rver=6.7.6643.0&amp;wp=LBI&amp;wreply=https:%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2FSecure%2FPassport%3Fru%3Dhttp%253a%252f%252fwww.msn.com%252fen-us%252fmoney%252fwatchlist%253focid%253dspartandhp%2526pfr%253d1&amp;lc=1033&amp;id=1184&amp;mkt=en-us" data-is-authenticated="True" data-first-name="Michael" data-last-name="Holland" data-member-name="mholland9@att.net" data-cid="B2B69FE59463156E">
+ <a href="http://profile.live.com/" title="Edit profile"  data-id="9" data-m='{"i":9,"p":8,"n":"EditProfileNavigation","y":14,"o":1}'>
+<span class="mectrlname">Michael</span><span class="mectrlimageplaceholder"></span>
+</a>
+ </div>
+ </li>
+ <li id="settings" >
+<a href="#temp"  data-id="10" data-m='{"i":10,"p":8,"n":"settings","y":14,"o":2}'  alt="settings"  aria-label="page settings"></a>
+  <ul role="menu" aria-hidden="true">
+
+ <li>
+<label>Change language &amp; content:</label>
+<select id="site-market"  data-id="11" data-m='{"i":11,"p":8,"n":"changemarket","y":14,"o":3}'>
+ <option data-mkt="es-xl" data-mkt-url="//www.msn.com/es-xl/dinero">Am&#233;rica Latina (espa&#241;ol)</option>
+ <option data-mkt="es-ar" data-mkt-url="//www.msn.com/es-ar/finanzas">Argentina (espa&#241;ol)</option>
+ <option data-mkt="en-au" data-mkt-url="//www.msn.com/en-au/money">Australia (English)</option>
+ <option data-mkt="nl-be" data-mkt-url="//www.msn.com/nl-be/financien">Belgi&#235; (Nederlands)</option>
+ <option data-mkt="fr-be" data-mkt-url="//www.msn.com/fr-be/finance">Belgique (fran&#231;ais)</option>
+ <option data-mkt="pt-br" data-mkt-url="//www.msn.com/pt-br/dinheiro">Brasil (portugu&#234;s)</option>
+ <option data-mkt="en-ca" data-mkt-url="//www.msn.com/en-ca/money">Canada (English)</option>
+ <option data-mkt="fr-ca" data-mkt-url="//www.msn.com/fr-ca/finances">Canada (fran&#231;ais)</option>
+ <option data-mkt="es-cl" data-mkt-url="//www.msn.com/es-cl/dinero">Chile (espa&#241;ol)</option>
+ <option data-mkt="es-co" data-mkt-url="//www.msn.com/es-co/dinero">Colombia (espa&#241;ol)</option>
+ <option data-mkt="da-dk" data-mkt-url="//www.msn.com/da-dk/finans">Danmark (Dansk)</option>
+ <option data-mkt="de-de" data-mkt-url="//www.msn.com/de-de/finanzen">Deutschland (Deutsch)</option>
+ <option data-mkt="es-es" data-mkt-url="//www.msn.com/es-es/dinero">Espa&#241;a (espa&#241;ol)</option>
+ <option data-mkt="fr-fr" data-mkt-url="//www.msn.com/fr-fr/finance">France (fran&#231;ais)</option>
+ <option data-mkt="en-in" data-mkt-url="//www.msn.com/en-in/money">India (English)</option>
+ <option data-mkt="id-id" data-mkt-url="//u.msn.com/id-id/ekonomi">Indonesia (Bahasa Indonesia)</option>
+ <option data-mkt="en-ie" data-mkt-url="//www.msn.com/en-ie/money">Ireland (English)</option>
+ <option data-mkt="it-it" data-mkt-url="//www.msn.com/it-it/money">Italia (italiano)</option>
+ <option data-mkt="en-my" data-mkt-url="//www.msn.com/en-my/money">Malaysia (English)</option>
+ <option data-mkt="es-mx" data-mkt-url="//prodigy.msn.com/es-mx/dinero">M&#233;xico (espa&#241;ol)</option>
+ <option data-mkt="nl-nl" data-mkt-url="//www.msn.com/nl-nl/geldzaken">Nederland (Nederlands)</option>
+ <option data-mkt="en-nz" data-mkt-url="//www.msn.com/en-nz/money">New Zealand (English)</option>
+ <option data-mkt="nb-no" data-mkt-url="//www.msn.com/nb-no/okonomi">Norge (norsk, bokm&#229;l)</option>
+ <option data-mkt="de-at" data-mkt-url="//www.msn.com/de-at/finanzen">&#214;sterreich (Deutsch)</option>
+ <option data-mkt="es-pe" data-mkt-url="//www.msn.com/es-pe/dinero">Per&#250; (espa&#241;ol)</option>
+ <option data-mkt="en-ph" data-mkt-url="//www.msn.com/en-ph/money">Philippines (English)</option>
+ <option data-mkt="pl-pl" data-mkt-url="//www.msn.com/pl-pl/finanse">Polska (polski)</option>
+ <option data-mkt="pt-pt" data-mkt-url="//www.msn.com/pt-pt/financas">Portugal (Portugu&#234;s)</option>
+ <option data-mkt="de-ch" data-mkt-url="//www.msn.com/de-ch/finanzen">Schweiz (Deutsch)</option>
+ <option data-mkt="en-sg" data-mkt-url="//www.msn.com/en-sg/money">Singapore (English)</option>
+ <option data-mkt="en-za" data-mkt-url="//www.msn.com/en-za/money">South Africa (English)</option>
+ <option data-mkt="fr-ch" data-mkt-url="//www.msn.com/fr-ch/finance">Suisse (fran&#231;ais)</option>
+ <option data-mkt="fi-fi" data-mkt-url="//www.msn.com/fi-fi/talous">Suomi (suomi)</option>
+ <option data-mkt="sv-se" data-mkt-url="//www.msn.com/sv-se/ekonomi">Sverige (svenska)</option>
+ <option data-mkt="tr-tr" data-mkt-url="//www.msn.com/tr-tr/finans">T&#252;rkiye (T&#252;rk&#231;e)</option>
+ <option data-mkt="en-ae" data-mkt-url="//www.msn.com/en-ae/money">United Arab Emirates (English)</option>
+ <option data-mkt="en-gb" data-mkt-url="//www.msn.com/en-gb/money">United Kingdom (English)</option>
+ <option data-mkt="en-us" data-mkt-url="//www.msn.com/en-us/money" selected>United States (English)</option>
+ <option data-mkt="es-us" data-mkt-url="//www.msn.com/es-us/dinero">United States (espa&#241;ol)</option>
+ <option data-mkt="es-ve" data-mkt-url="//www.msn.com/es-ve/dinero">Venezuela (espa&#241;ol)</option>
+ <option data-mkt="vi-vn" data-mkt-url="//www.msn.com/vi-vn/money">Vi&#234;̣t Nam (Ti&#234;́ng Vi&#234;̣t)</option>
+ <option data-mkt="el-gr" data-mkt-url="//www.msn.com/el-gr/money">Ελλάδα (ελληνικά)</option>
+ <option data-mkt="ru-ru" data-mkt-url="//www.msn.com/ru-ru/money">Россия (Pусский)</option>
+ <option data-mkt="he-il" data-mkt-url="//www.msn.com/he-il/money">ישראל (עברית)‏</option>
+ <option data-mkt="ar-ae" data-mkt-url="//www.msn.com/ar-ae/money">الإمارات العربية المتحدة (العربية‏)</option>
+ <option data-mkt="ar-sa" data-mkt-url="//www.msn.com/ar-sa/money">المملكة العربية السعودية (العربية‏)</option>
+ <option data-mkt="ar-eg" data-mkt-url="//www.msn.com/ar-eg/money">مصر (العربية‏)</option>
+ <option data-mkt="th-th" data-mkt-url="//www.msn.com/th-th/money">ไทย (ไทย)</option>
+ <option data-mkt="ko-kr" data-mkt-url="//www.msn.com/ko-kr/money">한국 (한국어)</option>
+ <option data-mkt="zh-cn" data-mkt-url="//cn.msn.com/money">中华人民共和国 (简体中文)</option>
+ <option data-mkt="zh-tw" data-mkt-url="//www.msn.com/zh-tw/money">台灣 (繁體中文)</option>
+ <option data-mkt="ja-jp" data-mkt-url="//www.msn.com/ja-jp/money">日本 (日本語)</option>
+ <option data-mkt="zh-hk" data-mkt-url="//www.msn.com/zh-hk/money">香港特别行政區 (繁體中文)</option>
+ </select>
+</li>
+
+ <li class="marketswitch" data-mkt="es-us" data-mkt-url="//www.msn.com/es-us/dinero">
+<button  data-id="12" data-m='{"i":12,"p":8,"n":"marketswitch","y":14,"o":4}'>Switch to Latino</button>
+</li>
+
+ <li>
+<a href="/en-us/settings"  data-id="13" data-m='{"i":13,"p":8,"n":"","y":14,"l":"settings","o":5}'>
+ Settings
+</a>
+</li>
+
+
+
+
+ <li class=feedback>
+
+<a href="#" id="usermenu-feedback"  data-id="14" data-m='{"i":14,"p":8,"n":"feedback","y":14,"o":6}'>
+ Feedback
+</a>
+</li>
+ <li>
+<a target="_blank" href="https://support.microsoft.com/product/msn/msn"  data-id="15" data-m='{"i":15,"p":8,"n":"helpLink","y":14,"l":"homepage","o":7}'>Help</a>
+</li>
+ </ul>
+
+</li>
+ 
+</ul>
+
+
+
+
+
+
+
+
+ 
+</li>
+  </ul>
+ 
+</header>
+<div class="search-overlay"  data-aop="search-overlay"></div>
+         <nav id="nav" role="navigation"  data-region="megamenu_nav"  data-id="16" data-m='{"i":16,"n":"megamenu_nav","y":14}'>
+<div class="navinner">
+ 
+<button type="button"  data-aop="left-flipper"></button>
+<ul class="supernav" role="menubar" aria-label="Site Navigation"  data-aop="lastcolumn">
+ <li  role="presentation" data-category-key=""  data-id="17" data-m='{"i":17,"p":16,"n":"finance","y":14,"l":"finance","o":1}'>
+<a data-link-type="category" href="/en-us/money">
+ Today
+                            </a>
+                        </li>
+ <li  role="presentation" data-category-key=""  data-id="18" data-m='{"i":18,"p":16,"n":"Markets","y":14,"l":"Markets","o":2}'>
+<a data-link-type="category" href="/en-us/money/markets">
+ Markets
+                            </a>
+                        </li>
+ <li  role="presentation" data-category-key=""  data-id="19" data-m='{"i":19,"p":16,"n":"finance-investing","y":14,"l":"finance-investing","o":3}'>
+<a data-link-type="category" href="/en-us/money/investing">
+ Investing
+                            </a>
+                        </li>
+ <li  role="presentation" data-category-key=""  data-id="20" data-m='{"i":20,"p":16,"n":"PersonalFinance","y":14,"l":"PersonalFinance","o":4}'>
+<a data-link-type="category" href="/en-us/money/personalfinance">
+ Personal Finance
+                            </a>
+                        </li>
+ <li  role="presentation" data-category-key=""  data-id="21" data-m='{"i":21,"p":16,"n":"finance-real-estate","y":14,"l":"finance-real-estate","o":5}'>
+<a data-link-type="category" href="/en-us/money/realestate">
+ Real Estate
+                            </a>
+                        </li>
+ <li  role="presentation" data-category-key=""  data-id="22" data-m='{"i":22,"p":16,"n":"finance-careers","y":14,"l":"finance-careers","o":6}'>
+<a data-link-type="category" href="/en-us/money/careers">
+ Careers
+                            </a>
+                        </li>
+ <li  role="presentation" data-category-key=""  data-id="23" data-m='{"i":23,"p":16,"n":"Small Business","y":14,"l":"Small Business","o":7}'>
+<a data-link-type="category" href="/en-us/money/smallbusiness">
+ Small Business
+                            </a>
+                        </li>
+ </ul>
+<ul  class="mylink" role="menubar" aria-label="Site Navigation"  data-aop="lastcolumn">
+ <li  class="current" role="menuitem"  data-id="24" data-m='{"i":24,"p":16,"n":"Watchlist","y":14,"l":"Watchlist","o":8}'>
+<a data-link-type="category" href="/en-us/money/watchlist">My Watchlist</a>
+</li>
+ <li  role="menuitem"  data-id="25" data-m='{"i":25,"p":16,"n":"Mortgages","y":14,"l":"Mortgages","o":9}'>
+<a data-link-type="category" href="/en-us/money/realestate/mortgage-rates">Mortgages</a>
+</li>
+ <li  role="menuitem"  data-id="26" data-m='{"i":26,"p":16,"n":"CreditCards","y":14,"l":"CreditCards","o":10}'>
+<a data-link-type="category" href="/en-us/money/credit/credit-cards">Credit Cards</a>
+</li>
+ <li  role="menuitem"  data-id="27" data-m='{"i":27,"p":16,"n":"brokercenter","y":14,"l":"brokercenter","o":11}'>
+<a data-link-type="category" href="/en-us/money/brokercenter">Broker Center</a>
+</li>
+ <li  role="menuitem"  data-id="28" data-m='{"i":28,"p":16,"n":"FinanceTools","y":14,"l":"FinanceTools","o":12}'>
+<a data-link-type="category" href="/en-us/money/tools">Tools</a>
+</li>
+ </ul>
+<button type="button"  data-aop="right-flipper"></button>
+ 
+</div>
+</nav>
+
+
+
+        
+    </div>
+
+ <nav class="megamenu"  data-region="megamenu_nav"  data-id="29" data-m='{"i":29,"n":"megamenu_nav","y":14}' >
+<div class="start" role="menubar">
+  <ul aria-label="Site Navigation">
+ <li  class="homepage" role="presentation"  data-id="30" data-m='{"i":30,"n":"homepage","y":14,"l":"homepage"}'>
+<a href="/en-us" tabindex="2">Home</a>
+</li>
+ <li  class="news" role="presentation"  data-id="31" data-m='{"i":31,"n":"news","y":14,"l":"news"}'>
+<a href="/en-us/news" tabindex="2">News</a>
+</li>
+ <li  class="weather" role="presentation"  data-id="32" data-m='{"i":32,"n":"weather","y":14,"l":"weather"}'>
+<a href="/en-us/weather" tabindex="2">Weather</a>
+</li>
+ <li  class="entertainment" role="presentation"  data-id="33" data-m='{"i":33,"n":"entertainment","y":14,"l":"entertainment"}'>
+<a href="/en-us/entertainment" tabindex="2">Entertainment</a>
+</li>
+ <li  class="sports" role="presentation"  data-id="34" data-m='{"i":34,"n":"sports","y":14,"l":"sports"}'>
+<a href="/en-us/sports" tabindex="2">Sports</a>
+</li>
+ <li  class="finance" role="presentation"  data-id="35" data-m='{"i":35,"n":"finance","y":14,"l":"finance"}'>
+<a href="/en-us/money" tabindex="2">Money</a>
+</li>
+ </ul>
+
+  <ul aria-label="Site Navigation">
+ <li  class="lifestyle" role="presentation"  data-id="36" data-m='{"i":36,"n":"lifestyle","y":14,"l":"lifestyle"}'>
+<a href="/en-us/lifestyle" tabindex="2">Lifestyle</a>
+</li>
+ <li  class="health" role="presentation"  data-id="37" data-m='{"i":37,"n":"health","y":14,"l":"health"}'>
+<a href="/en-us/health" tabindex="2">Health &amp; Fitness</a>
+</li>
+ <li  class="foodanddrink" role="presentation"  data-id="38" data-m='{"i":38,"n":"foodanddrink","y":14,"l":"foodanddrink"}'>
+<a href="/en-us/foodanddrink" tabindex="2">Food &amp; Drink</a>
+</li>
+ <li  class="travel" role="presentation"  data-id="39" data-m='{"i":39,"n":"travel","y":14,"l":"travel"}'>
+<a href="/en-us/travel" tabindex="2">Travel</a>
+</li>
+ <li  class="autos" role="presentation"  data-id="40" data-m='{"i":40,"n":"autos","y":14,"l":"autos"}'>
+<a href="/en-us/autos" tabindex="2">Autos</a>
+</li>
+ <li  class="video" role="presentation"  data-id="41" data-m='{"i":41,"n":"video","y":14,"l":"video"}'>
+<a href="/en-us/video" tabindex="2">Video</a>
+</li>
+ </ul>
+
+</div>
+ <div >
+
+
+<div  class="list7lines"> <ul role="menubar"  >
+ <li role="presentation" >
+ <a href="/en-us/money/topstocks" tabindex="2">Top Stocks</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/inside-the-ticker" tabindex="2">Inside the Ticker</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/mutualfunds" tabindex="2">Mutual Funds and ETFs</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/smallbusiness" tabindex="2">Small Business</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/experts" tabindex="2">Expert Voices</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/taxes" tabindex="2">Taxes</a>
+ </li>
+ </ul>
+</div>
+
+
+<div  class="list7lines"> <h2>Stock Picks</h2>
+ <ul role="menubar"  >
+ <li role="presentation" >
+ <a href="/en-us/money/stockscreener/52weekhighs" tabindex="2">Today&#39;s 52-Week Highs</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/stockscreener/52weeklows" tabindex="2">Today&#39;s 52-Week Lows</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/stockscreener/volumeshockers" tabindex="2">Volume Shockers</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/stockscreener/priceshockers" tabindex="2">Price Shockers</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/stockscreener/hdys" tabindex="2">High-yield Stocks</a>
+ </li>
+ <li role="presentation" >
+ <a href="/en-us/money/stockscreener/blueblood" tabindex="2">The Best Blue-Chip Stocks</a>
+ </li>
+ </ul>
+</div>
+</div>
+
+
+ </nav>
+
+
+
+    <div id="precontent"  data-region="precontent"  data-id="42" data-m='{"i":42,"n":"precontent","y":6}'>
+        
+        
+        
+    </div>
+        <script>
+            window._flushTimings && (window._flushTimings.PreContentEnd = new Date - window.performance.timing.navigationStart);
+        </script>
+
+    <div id="maincontent">
+        <div class="content" id="content">
+            <main id="main" role="main"  data-region="main"  data-id="43" data-m='{"i":43,"n":"main","y":6}'>
+
+<div class="filmstripoutercontainer" id="filmstripoutercontainer">
+</div>
+ 
+<script>
+    require(["refreshPdpModules", "c.dom", "c.sso"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+    require(["refreshPdpModules", "c.dom", "c.pdp"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+
+    require(["jquery", "binding", "LocaleSettings", "c.pdpready"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+    require(["jquery", "binding", "LocaleSettings", "finance.ajax.done"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+
+    define("LocaleSettings", ["utils"], function()
+    {
+        var settings = {};
+        settings.numberGroupSizes = "3".split(" ");
+settings.numberDecimalSeparator = ".";
+settings.numberDecimalDigits = "2";
+settings.numberGroupSeparator = ",";
+settings.currencyGroupSizes = "3".split(" ");
+settings.currencyGroupSeparator = ",";
+settings.currencyDecimalSeparator = ".";
+settings.currencyDecimalDigits = parseInt("2");
+settings.currencySymbol = "$";
+settings.currencyPositivePattern = parseInt("0");
+settings.currencyNegativePattern = parseInt("0");
+settings.percentGroupSizes = "3".split(" ");
+settings.percentGroupSeparator = ",";
+settings.percentDecimalSeparator = ".";
+settings.percentDecimalDigits = parseInt("2");
+settings.percentSymbol = "%";
+settings.percentPositivePattern = parseInt("0");
+settings.percentNegativePattern = parseInt("0");
+settings.shortTimePattern = "h:mm tt";
+settings.monthYearPattern = "MMM yyyy";
+settings.monthDatePattern = "MMM d";
+settings.dayDatePattern = "ddd MMM d";
+settings.negativeSign = "-";
+settings.defaultDatePattern = " MMMM d, yyyy";
+settings.monthDayYearPattern = "M/d/yyyy";
+settings.longTimePattern = "h:mm:ss tt";
+settings.dateSeparator = "/";
+settings.timeSeparator = ":";
+settings.indexdetailsurl = "/en-us/money/indexdetails";
+settings.stockdetailsurl = "/en-us/money/stockdetails";
+settings.funddetailsurl = "/en-us/money/funddetails";
+settings.etfdetailsurl = "/en-us/money/etfdetails";
+settings.commoditydetailsurl = "/en-us/money/markets/commoditydetails";
+settings.watchlisturl = "/en-us/money/watchlist";
+settings.commoditiesNewsurl = "/en-us/money/commoditiesnews";
+settings.homeequityAjaxUrl = "/en-us/money/rates/gethomeequityrates";
+settings.autoloansAjaxUrl = "/en-us/money/rates/getautoloansrates";
+settings.savingsAjaxUrl = "/en-us/money/rates/getsavingsrates";
+settings.creditcardsAjaxUrl = "/en-us/money/rates/getcreditcardsrates";
+settings.currencyConverterUrl = "/en-us/money/currencyconverter";
+settings.serpUrl = "/en-us/money/serp";
+settings.milestoneDigits = "1000,1000000,1000000000,1000000000000".split(",");
+settings.milestoneWords = "k,M,B,T".split(",");
+settings.isUserAuthenticated = "True";
+settings.currenciesUrl = "/en-us/money/currencydetails";
+settings.marketDetailsUrl = "/en-us/money/marketdetails";
+settings.homepageScreenersUrl = "/en-us/money/homepagescreeners";
+settings.screenerAddFilterUrl = "/en-us/money/getscreenerfilters";
+settings.filterResponseUrl = "/en-us/money/getfilterresponse";
+settings.presetScreensUrl = "/en-us/money/getpresetscreens";
+settings.realTimeQuotesUrl = "/en-us/money/realtimequotes";
+settings.autosuggestControllerUrl = "/en-us/money/autosuggest";
+settings.searchresultsPageUrl = "/en-us/money/searchresults";
+settings.inlineImmersiveChartUrl = "/en-us/money/stockdetails/inlineimmersivechart";
+settings.heroChartUrl = "/en-us/money/stockdetails/herochart";
+settings.stockDetailsFilmstripUrl = "/en-us/money/stockdetailsfilmstrippartialpage?symbol=";
+settings.locale = "en-us";
+settings.language = "en";
+settings.country = "us";
+
+        settings.PostAjaxComplete = function(alwaysReset)
+        {
+            var pagingSection = binding.get("pagingSection", ".pagingsection");
+            //<![CDATA[
+            if (pagingSection && typeof pagingSection.teardown === "function" && typeof pagingSection.setup === "function")
+            {
+                pagingSection.teardown();
+                pagingSection.setup();
+                if (alwaysReset)
+                {
+                    binding("pagingSection", ".pagingsection").all();
+                }
+            } else
+            {
+                binding("pagingSection", ".pagingsection").all();
+            }
+            //]]>
+        };
+
+        return settings;
+    });
+</script>
+
+<style>
+    .bingNewsContainer h2::after,
+    [data-aop="financeportfoliobingnewsmodule"] h3::after,
+    .bingNewsContainer #pdp-module h3::after
+    {
+        content: "News from the Web";
+}
+</style>
+ <div class="watchlist-ad-strip">  <div tabindex="-1"  id="banner1_data_portfolio_c4fb65f0-b90e-416f-ac46-2d49809599a2"  class="widead"   data-aop="skylinewidead_ad"  data-id="44" data-m='{"i":44,"p":43,"n":"skylinewidead","t":"ad","o":1}'   aria-hidden="true">
+ 
+ 
+<div class="outeradcontainer">
+ 
+<div  id="banner1_data_portfolio_container_c4fb65f0-b90e-416f-ac46-2d49809599a2" class="adcontainer" data-adjs='{"allowedViews":"SIZE234COLUMN"}' tabindex="-1">
+ <script class="sdkdapscript">
+                        require(["dap"], function (dap)
+                        {
+ dap("&amp;AP=1390&amp;PG=FINUSEN12&amp;PVGUID=6d63b3cae3c44a7e959e6164b50401de&amp;PROVIDERID=7HD66FC", 728, 90, "banner1_data_portfolio_container_c4fb65f0-b90e-416f-ac46-2d49809599a2", {"isEnabled":0, "isDarkTheme":0}, {"scrollInit":true,"enableAdRefresh":true,"adaptiveRefresh":true,"adaptiveRefreshInterval":3000,"prid":"7HD66FC","adsVNextHeight":"LB","adsVNextWidth":"LB","adContainerType":"fileless","rid":"6d63b3cae3c44a7e959e6164b50401de"});
+ });
+</script>
+ </div>
+     <a href="http://go.microsoft.com/fwlink/?LinkID=286759" class="adchoices" target="_blank" data-piitxt="adchoices">
+        <span class="adchoiceicon"></span>
+        <span>AdChoices</span>
+    </a>
+
+</div>
+ 
+</div>
+ </div>
+ <div class="finance-strip">
+<div class="finance-watchlist">
+
+
+<script>
+    define("homepageFinanceIndices", ["c.deferred"], function ()
+    {
+        var config = {};
+        config.indexdetailsurl = "/en-us/money/indexdetails";
+config.stockdetailsurl = "/en-us/money/stockdetails";
+config.funddetailsurl = "/en-us/money/funddetails";
+config.etfdetailsurl = "/en-us/money/etfdetails";
+config.recentquotesurl = "/en-us/money/getrecentquotes";
+config.commoditydetailsurl = "/en-us/money/markets/commoditydetails";
+config.currencyConverterUrl = "/en-us/money/currencyconverter";
+config.market = "en-us";
+config.FORMCode = "PRWLQL";
+config.PopularSearchesFormCode = "PMWLPS";
+config.RecentQuotesFormCode = "PRWLRQ";
+        return config;
+    });
+</script>
+
+<script>
+    require(["jquery", "c.deferred"], function ($, settings)
+    {
+        $("#search-icon").click('on', function (event)
+        {
+            event.stopPropagation();
+        });
+        $(".quote-search-box").click('on', function (event)
+        {
+            event.stopPropagation();
+        });
+    });
+</script>
+
+<div id="watchlist-parent-module" class="personal"  data-module-id="WatchlistPage|portfolio|main|watchlistmodule|watchlistModule"  data-id="46" data-m='{"i":46,"p":43,"n":"watchlistmodule","t":"watchlistModule","o":3}'>
+ 
+ <style type="text/css">
+            #portfoliomainmenu,
+            #portfolioaddmenu,
+            #portfolioaddsubmenucontent,
+            #edit-portfolio,
+            #remove-portfolio-confirm,
+            #remove-portfoliotr-confirm,
+            #delete-instrument-confirm,
+            #portfoliotop,
+            #watchlist-main,
+            #portfolioaddtransaction,
+            #portfolioaddcashtransaction,
+            #portfoliochangeentity,
+            #confirm-changes {
+                display: none;
+            }
+        </style>
+ <div id="portfolios" data-bind="with: $root" data-quicklist-text="Quick List" data-locale="en-us" data-vsegment="money" data-portfolioid="default">
+<div id="menuopen-background-disabler" class="menuopen-background-disabler"></div>
+<div id="portfoliochangeentity" class="basemenu changeentitydlg">
+<input tabindex="0" id="portfolio-change-financeautosuggest" class="finance-auto-suggest watchlist-suggest ui-autocomplete-input" placeholder="Enter a Symbol or Name">
+<button tabindex="0" id="portfolio-update-entity" class="portfolio-add-button" type="button" data-bind="click: $root.updateEntityId, clickBubble: false, keyboardSelect: $root.updateEntityId"  data-id="47" data-m='{"i":47,"p":46,"n":"UpdateEntityId","t":"Button","o":1}'>Update</button>
+<div tabindex="0" id="portfolio-close-changeentity" class="close-btn closechangeentity" data-bind="click: $root.closeEntityIdChange, clickBubble: false, keyboardSelect: $root.closeEntityIdChange"  data-id="48" data-m='{"i":48,"p":46,"n":"CloseEditEntityId","t":"Click","o":2}'></div>
+<div class="submenulinktext fi-name" data-bind="text: $root.entityIdChangeInfo"></div>
+<div data-bind="css: { showInline: $root.entityIdChangeErrorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: $root.entityIdChangeErrorMessage()!=''}, text: $root.entityIdChangeErrorMessage"></p>
+                </div>
+            </div>
+            <div id="watchlist-toppane">
+<button id="closeglobalerrormsg" tabindex="0" data-bind="visible: operationErrorMessage()!='', click: $root.clearGlobalError, clickBubble: false, keyboardSelect: $root.clearGlobalError"  data-id="49" data-m='{"i":49,"p":46,"n":"ClearPortfolioGlobalError","t":"Button","o":3}'></button>
+<div id="globalerrormsg" tabindex="0" data-bind="visible: operationErrorMessage()!='', text: operationErrorMessage"  data-id="50" data-m='{"i":50,"p":46,"n":"PortfolioGlobalError","y":6,"o":4}'></div>
+<div id="portfoliotop">
+<div class="portfoliomenubar" role="menubar">
+<h2 class="portfoliotitle">Portfolios</h2>
+<div class="menudropdown" tabindex="0" data-bind="click: handleMenu, clickBubble: false, keyboardSelect: handleMenu" role="menuitem" aria-haspopup="true"  data-id="51" data-m='{"i":51,"p":46,"n":"PortfolioMainMenu","t":"Dropdown","o":5}'>
+<div class="menuselectedportfolio">
+<h1 data-bind="text: currentPortfolioName"></h1>
+<span class="menucurrency" data-bind="text: currentPortfolioCurrency"></span>
+                            </div>
+                            <div class="downarrow"></div>
+<div id="portfoliomainmenu" class="basemenu portfoliomenu" role="menu">
+<div class="portfoliomenuitem" role="menuitem" aria-checked="false" tabindex="0" data-bind="click: newPortfolio, clickBubble: false, keyboardSelect: newPortfolio"  data-id="52" data-m='{"i":52,"p":46,"n":"NewPortfolio","t":"Click","o":6}'>New</div>
+<div class="portfoliomenuitem" role="menuitem" aria-checked="false" tabindex="0" data-bind="click: editPortfolio, clickBubble: false, keyboardSelect: editPortfolio"  data-id="53" data-m='{"i":53,"p":46,"n":"EditPortfolio","t":"Click","o":7}'>Edit</div>
+<div role="menuitem" tabindex="0" data-bind="css: conditionalMenuItemCss, click: removePortfolio, clickBubble: false, keyboardSelect: removePortfolio"  data-id="54" data-m='{"i":54,"p":46,"n":"RemovePortfolio","t":"Click","o":8}'>Remove</div>
+<div class="portfoliomenuitembreaker"></div>
+                                <!-- ko with: quickList -->
+                                <div class="portfoliomenuitem" role="menuitem" aria-checked="false" tabindex="0" data-bind="click:$root.loadPortfolio, clickBubble: false, keyboardSelect:$root.loadPortfolio"  data-id="55" data-m='{"i":55,"p":46,"n":"LoadQuicklist","t":"Click","o":9}'>Quick List<div class="portfoliomenuiteminfo">Take the symbols you care the most about on the go with the Edge browser and Cortana on Windows 10</div></div>
+                                <!-- /ko -->
+                                <div class="portfoliomenuitembreaker" data-bind="visible: portfolioSummary().length>0"></div>
+                                <!-- ko foreach: portfolioSummary -->
+                                <div class="portfoliomenuitem" role="menuitem" aria-checked="false" tabindex="0" data-bind="text: name, click:$root.loadPortfolio, clickBubble: false, keyboardSelect:$root.loadPortfolio"  data-id="56" data-m='{"i":56,"p":46,"n":"LoadPortfolio","t":"Click","o":10}'></div>
+                                <!-- /ko -->
+                                <div class="portfoliomenuitembreaker" data-bind="visible: portfolioSummary().length>0"></div>
+<div class="portfoliomenuitem" role="menuitem" aria-checked="false" tabindex="0" data-bind="click: openHelp, clickBubble: false, keyboardSelect: openHelp"  data-id="57" data-m='{"i":57,"p":46,"n":"Help","t":"Click","o":11}'>Help</div>
+<div class="portfoliomenuitem floatingfeedback" role="menuitem" aria-checked="false" tabindex="0"  data-id="58" data-m='{"i":58,"p":46,"n":"Feedback","t":"Click","o":12}'>Provide Feedback</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="remove-portfolio-confirm" title="Remove Portfolio" data-yes-text="Delete" data-no-text="Cancel"  data-id="59" data-m='{"i":59,"p":46,"n":"RemovePortfolioNoTransactionsDialog","t":"Click","o":13}'>
+<p>The currently selected portfolio will be permanently removed and cannot be recovered. Are you sure?</p>
+<div data-bind="css: { showInline: operationErrorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: operationErrorMessage()!=''}, text: operationErrorMessage"></p>
+                        </div>
+                    </div>
+
+                    <div id="remove-portfoliotr-confirm" title="Remove Portfolio" data-yes-text="Delete" data-no-text="Cancel"  data-id="60" data-m='{"i":60,"p":46,"n":"RemovePortfolioWithTransactionsDialog","t":"Click","o":14}'>
+<p>There are transactions associated with this portfolio. All transactions will be permanently removed and cannot be recovered. Are you sure?</p>
+<div data-bind="css: { showInline: operationErrorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: operationErrorMessage()!=''}, text: operationErrorMessage"></p>
+                        </div>
+                    </div>
+
+                    <div id="confirm-changes" title="Confirm changes" data-yes-text="Abandon" data-save-text="Save" data-no-text="Cancel"  data-id="61" data-m='{"i":61,"p":46,"n":"ConfirmLoseTransactionChangesDialog","t":"Click","o":15}'>
+<p>Changes have been made. Navigating away will mean you will lose all your changes. Are you sure?</p>
+<div data-bind="css: { showInline: operationErrorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: operationErrorMessage()!=''}, text: operationErrorMessage"></p>
+                        </div>
+                    </div>
+                    <div id="delete-instrument-confirm" title="Confirm Instrument Deletion" data-yes-text="Delete" data-no-text="Cancel"  data-id="62" data-m='{"i":62,"p":46,"n":"DeleteInstrumentDialog","t":"Click","o":16}'>
+<p>All transactions associated with this financial instrument will be permanently removed. Are you sure?</p>
+</div>
+<div id="edit-portfolio" data-new-text="New Portfolio" data-edit-text="Edit Portfolio" data-yes-text="OK" data-no-text="Cancel"  data-id="63" data-m='{"i":63,"p":46,"n":"EditPortfolioDialog","t":"Click","o":17}'>
+<div class="editcontainer" id="editPortfolioName">
+<label class="dlg-label">Name</label><input id="portfolioNameInput" class="dlg-control" data-bind="textInput: editViewModel.name" />
+<div class="validationmessage" data-bind="visible: editViewModel.name.hasError, text: editViewModel.name.validationMessage"></div>
+                        </div>
+                        <div class="editcontainer">
+<label class="dlg-label">Currency</label><select class="select dlg-control" data-bind="options: currencyInfo,
+                                               optionsText: 'codeWithCurrencyName',
+                                               value: editViewModel.currency"></select>
+<div class="validationmessage" data-bind="visible: editViewModel.currency.hasError, text: editViewModel.currency.validationMessage"></div>
+                        </div>
+                        <div class="editcontainer" id="editPortfolioCalc">
+<label class="dlg-label">Calculation Method</label><select class="select dlg-control" data-bind="options: calculationMethods,
+                                               optionsText: 'name',
+                                               value: editViewModel.calculationMethod"></select>
+<div class="validationmessage" data-bind="visible: editViewModel.calculationMethod.hasError, text: editViewModel.calculationMethod.validationMessage"></div>
+                        </div>
+                        <div class="editcontainer" data-bind="css: { showinline: editViewModel.errorMessage()!='' }">
+<p data-bind="css: { showError: editViewModel.errorMessage()!=''}, text: editViewModel.errorMessage"></p>
+                        </div>
+                    </div>
+
+                    <div class="toolbar">
+<div class="buttonbar div-inline" role="toolbar">
+<div class="div-inline" tabindex="0" role="button" data-bind="visible: $root.selectedTab() !== 4 && !$root.inEditingState(), click: handleAddInstrumentMenu, clickBubble: false, keyboardSelect: handleAddInstrumentMenu"  data-id="64" data-m='{"i":64,"p":46,"n":"AddInstrument","t":"Click","o":18}'>
+<span class="toolbar-button add-button"></span><span class="toolbar-text">Add</span>
+                            </div>
+
+                            <div id="portfolioaddmenu" class="basemenu addfimenu" data-bind="with: addViewModel">
+<input tabindex="0" default="" ticker="" securitytype="" id="portfolio-add-financeautosuggest" class="finance-auto-suggest watchlist-suggest ui-autocomplete-input" placeholder="Enter a Symbol or Name" autocomplete="off">
+<button tabindex="0" id="portfolio-addinst-btn" class="portfolio-add-button" type="button" data-bind="click: $root.addInstrument, clickBubble: false, keyboardSelect: $root.addInstrument"  data-id="65" data-m='{"i":65,"p":46,"n":"AddInstrument","t":"Button","o":19}'>Add</button>
+<div tabindex="0" class="close-btn" data-bind="click: $root.handleAddInstrumentMenu, clickBubble: false, keyboardSelect: $root.handleAddInstrumentMenu"  data-id="66" data-m='{"i":66,"p":46,"n":"CloseAddInstrument","t":"Click","o":20}'></div>
+<div class="submenulinktext fi-name" data-bind="text: $root.addViewModel.info"></div>
+<div class="submenulinktext fi-add-transaction"><span id="portfolio-submenulink" class="submenulink" tabindex="0" data-bind="click: $root.handleAddInstrumentSubMenuContent, clickBubble: false, keyboardSelect: $root.handleAddInstrumentSubMenuContent"  data-id="67" data-m='{"i":67,"p":46,"n":"AddInstrumentTransactionData","t":"Click","o":21}'>+ Add Transaction Data</span></div>
+<div id="portfolioaddsubmenucontent" class="submenucontent">
+<div class="editcontainer">
+<label class="add-label">Transaction Type</label><select tabindex="0" class="add-control" id="portfolio-add-type" data-bind="options: $root.transactionTypes,
+                                               optionsText: 'name',
+                                               value: $root.addViewModel.transactionType"></select>
+<div class="validationmessage" data-bind="visible: $root.addViewModel.transactionType.hasError, text: $root.addViewModel.transactionType.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer">
+<label class="add-label">Date</label><input tabindex="0" class="add-control" id="portfolio-add-date" data-bind="datepicker: $root.addViewModel.transactionDate" type="text" placeholder="Date">
+<div class="validationmessage" data-bind="visible: $root.addViewModel.transactionDate.hasError, text: $root.addViewModel.transactionDate.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+<label class="add-label">Units</label><input tabindex="0" class="add-control" id="portfolio-add-no-of-shares" data-bind="value: quantity.formatted, event: { blur: calculateNewTotal }" type="text" placeholder="Units">
+<div class="validationmessage" data-bind="visible: quantity.hasError, text: quantity.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+<label class="add-label">Price</label><input tabindex="0" class="add-control" id="portfolio-add-price" data-bind="value: price.formatted, event: { blur: calculateNewTotal }" type="text" placeholder="Price">
+<div class="validationmessage" data-bind="visible: price.hasError, text: price.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+<label class="add-label">Book Value</label><input tabindex="0" class="add-control" id="portfolio-add-value" data-bind="value: total.formatted, event: { blur: calculateNewPrice }" type="text" placeholder="Book Value">
+<div class="validationmessage" data-bind="visible: total.hasError, text: total.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+<label class="add-label">Exchange Rate</label><input tabindex="0" class="add-control" id="portfolio-add-exrate" data-bind="value: exchangeRate.formatted" type="text" placeholder="Exchange Rate">
+<div class="validationmessage" data-bind="visible: exchangeRate.hasError, text: exchangeRate.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer" data-bind="visible: transactionType() && transactionType().type === 3">
+<label class="add-label">Split Ratio</label><input tabindex="0" class="add-control" id="portfolio-add-splitratio" data-bind="value: splitRatio.formatted" type="text" placeholder="Split Ratio">
+<div class="validationmessage" data-bind="visible: splitRatio.hasError, text: splitRatio.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer">
+<label class="add-label">Commission</label><input tabindex="0" class="add-control" id="portfolio-add-commission" data-bind="value: commission.formatted" type="text" placeholder="Commission">
+<div class="validationmessage" data-bind="visible: commission.hasError, text: commission.validationMessage"></div>
+                                    </div>
+
+                                    <div class="editcontainer">
+<label class="add-label">Notes</label><input tabindex="0" class="add-control" id="portfolio-add-notes" data-bind="textInput: notes" type="text" , placeholder="Notes">
+<div class="validationmessage" data-bind="visible: notes.hasError, text: notes.validationMessage"></div>
+                                    </div>
+
+                                </div>
+
+                                <div data-bind="css: { showInline: $root.addViewModel.errorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: $root.addViewModel.errorMessage()!=''}, text: $root.addViewModel.errorMessage"></p>
+                                </div>
+                            </div>
+
+                            <div class="div-inline" tabindex="0" role="button" data-bind="css: $root.enableEditingCss, visible: $root.selectedTab() && $root.selectedTab() !== 4 && !$root.inEditingState(), click: enableEditing, clickBubble: false, keyboardSelect: enableEditing"  data-id="68" data-m='{"i":68,"p":46,"n":"EditInstruments","t":"Click","o":22}'>
+<span class="toolbar-button edit-button"></span><span class="toolbar-text">Edit</span>
+                            </div>
+                            <div class="div-inline" tabindex="0" role="button" data-bind="visible: $root.selectedTab() && $root.selectedTab() !== 4 && $root.inEditingState(), click: saveEditingChanges, clickBubble: false, keyboardSelect: saveEditingChanges"  data-id="69" data-m='{"i":69,"p":46,"n":"SaveInstrumentsChange","t":"Click","o":23}'>
+<span class="toolbar-button save-button"></span><span class="toolbar-text">Save</span>
+                            </div>
+                            <div class="div-inline" tabindex="0" role="button" data-bind="visible: $root.selectedTab() && $root.selectedTab() !== 4 && $root.inEditingState(), click: cancelEditing, clickBubble: false, keyboardSelect: cancelEditing"  data-id="70" data-m='{"i":70,"p":46,"n":"CancelEditInstruments","t":"Click","o":24}'>
+<span class="toolbar-button cancelx-button"></span><span class="toolbar-text">Cancel</span>
+                            </div>
+                            <div class="div-inline" tabindex="0" role="button" data-bind="visible: $root.selectedTab() && $root.selectedTab() === 4, click: saveTransactionChanges, clickBubble: false, keyboardSelect: saveTransactionChanges"  data-id="71" data-m='{"i":71,"p":46,"n":"SaveTransactions","t":"Click","o":25}'>
+<span class="toolbar-button save-button"></span><span class="toolbar-text">Save</span>
+                            </div>
+                            <div class="div-inline" tabindex="0" role="button" data-bind="visible: $root.printEnabled">
+<a class="toolbar-button print-button" href="" target="blank"></a><span class="toolbar-text">Print</span>
+                            </div>
+                        </div>
+                        <div id="quote-search" class="quote-container">
+<div class="quote-search-box">
+<div id="fi-module1">
+<div class="fi-as-container">
+<input type="text" id="finance-autosuggest" placeholder="Quote Search" title="Quote Search" autocorrect=" off" autocomplete="off" />
+<span class="search fi-as-icon"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="watchlists-manage">
+<section class="portfolio-tab-navigation fin-tab-group" id="portfolio-tab-navigation" tabindex="0">
+<ul id="portfolio-tab-links" role="tablist">
+<li id="tab-summary" role="tab" aria-controls="tabpanel-summary" data-tab-id="1" tabindex="0" data-bind="click: handleTab, keyboardSelect: handleTab"  data-id="72" data-m='{"i":72,"p":46,"n":"SummaryTab","y":4,"o":26}'><h2>Summary</h2></li>
+<li id="tab-fundamentals" role="tab" aria-controls="tabpanel-fundamentals" data-tab-id="2" tabindex="0" data-bind="click: handleTab, keyboardSelect: handleTab"  data-id="73" data-m='{"i":73,"p":46,"n":"FundamentalsTab","y":4,"o":27}'><h2>Fundamentals</h2></li>
+<li id="tab-holdings" role="tab" aria-contols="tabpanel-holdings" data-tab-id="3" tabindex="0" data-bind="click: handleTab, keyboardSelect: handleTab"  data-id="74" data-m='{"i":74,"p":46,"n":"HoldingsTab","y":4,"o":28}'><h2>Portfolio Holdings</h2></li>
+<li id="tab-transactions" role="tab" aria-controls="tabpanel-transactions" data-tab-id="4" tabindex="0" data-bind="click: handleTab, keyboardSelect: handleTab"  data-id="75" data-m='{"i":75,"p":46,"n":"TransactionsTab","y":4,"o":29}'><h2>Transactions</h2></li>
+                            </ul>
+                        </section>
+                    </div>
+                </div>
+            </div>
+
+            <div id="watchlist-main"  data-id="76" data-m='{"i":76,"p":46,"n":"PortfolioContent","y":6,"o":30}'>
+<div id="watchlist-container">
+<div id="errormsg"></div>
+<div id="currentportfolio" data-bind="with: currentPortfolio">
+<div class="addinst-msg" data-bind="visible: portfolioInstruments().length==0">Add a symbol to this portfolio by clicking on the <span class="toolbar-button add-button addinst-icon" role="button" data-bind="click: $root.handleAddInstrumentMenu, clickBubble: false, keyboardSelect: $root.handleAddInstrumentMenu" data-id="45" data-m='{"i":45,"p":43,"n":"AddInstrumentFromHelpMessage","t":"Button","o":2}'></span> add button</div>
+<div id="portfolioperformance" data-bind="visible: model.type === 2 && portfolioInstruments().length>0 && !$root.inEditingState()">
+<h3 class="infopanetext">Portfolio Performance</h3>
+<ul data-bind="visible: !performanceCalculated()">
+<li class="portfolio-performance-tile">
+                                    <div>
+                                        <div class="heading">Please Wait</div>
+<div class="mainvalue">Calculating...</div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul data-bind="visible: performanceCalculated()">
+<li class="portfolio-performance-tile tileth">
+                                    <div>
+                                        <div class="heading">Total Holdings</div>
+<div class="mainvalue balance" data-bind="css: totalHoldingsCss, text: totalHoldings"></div>
+<div class="cash"><span>Cash</span><span class="thcashadd" data-bind="css: totalCashCss, text: totalCash"></span><span class="thcashadd addcashinst" tabindex="0" data-bind="click: $root.addCashInstrument, clickBubble: false, keyboardSelect: $root.addCashInstrument"  data-id="77" data-m='{"i":77,"p":46,"n":"AddCashInstrument","t":"Click","o":31}'><a href="#">Add</a></span></div>
+                                    </div>
+                                </li>
+                                <li class="portfolio-performance-tile tiledg">
+                                    <div>
+                                        <div class="heading">Day's Gain</div>
+<div class="mainvalue" data-bind="css: totalDayGainCss, text: totalDayGain"></div>
+<div class="secondaryvalue" data-bind="css: totalDayGainCss, text: totalDayGainPercent"></div>
+                                    </div>
+                                </li>
+                                <li class="portfolio-performance-tile tile1m">
+                                    <div>
+                                        <div class="heading">1 Month</div>
+<div class="mainvalue" data-bind="css: totalOneMonthCss, text: totalOneMonth"></div>
+<div class="secondaryvalue" data-bind="css: totalOneMonthCss, text: totalOneMonthPercent"></div>
+                                    </div>
+                                </li>
+                                <li class="portfolio-performance-tile tiletr">
+                                    <div>
+                                        <div class="heading">Total Return</div>
+<div class="mainvalue" data-bind="css: totalReturnCss, text: totalReturn"></div>
+<div class="secondaryvalue" data-bind="css: totalReturnCss, text: totalReturnPercent"></div>
+                                    </div>
+                                </li>
+                                <li class="portfolio-performance-tile tilerr">
+                                    <div>
+                                        <div class="heading">Realized Return</div>
+<div class="mainvalue" data-bind="css: realizedReturnCss, text: realizedReturn"></div>
+<div class="secondaryvalue" data-bind="css: realizedReturnCss, text: realizedReturnPercent"></div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div id="watchlist-content-summary" role="tabpanel" class="portfolio-table-headings" data-bind="visible: !$root.inEditingState()">
+<div id="tabpanel-summary" role="tabpanel" aria-labelledby="tab-summary" class="hidetabdata" data-tab-id="1"  data-id="78" data-m='{"i":78,"p":46,"n":"SummaryContent","y":6,"o":32}'>
+<table class="fin-table">
+<thead id="panel-heading-summary" class="fin-table-head" data-bind="visible: !$root.inEditingState() && portfolioInstruments().length>0">
+                                        <tr>
+                                            <th field="symbol" tabindex="0" class="column-heading row-symbol" data-bind="click: sortString, clickBubble: false, keyboardSelect: sortString" title="Symbol"  data-id="79" data-m='{"i":79,"p":46,"n":"SortSymbol","t":"Click","o":33}'><div>Symbol</div></th>
+<th field="longName" tabindex="0" class="column-heading row-name" data-bind="click: sortString, clickBubble: false, keyboardSelect: sortString" title="Name"  data-id="80" data-m='{"i":80,"p":46,"n":"SortName","t":"Click","o":34}'><div>Name</div></th>
+<th field="price" tabindex="0" class="column-heading price" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Price"  data-id="81" data-m='{"i":81,"p":46,"n":"SortPrice","t":"Click","o":35}'><div>Price</div></th>
+<th field="changePercent" tabindex="0" class="column-heading change" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Change"  data-id="82" data-m='{"i":82,"p":46,"n":"SortChange","t":"Click","o":36}'><div>Change</div></th>
+<th field="volume" tabindex="0" class="column-heading volume" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Volume"  data-id="83" data-m='{"i":83,"p":46,"n":"SortVolume","t":"Click","o":37}'><div>Volume</div></th>
+<th class="column-heading dayrange" title="Day Range"><div>Day Range</div></th>
+<th class="column-heading yearrange" title="52Wk Range"><div>52Wk Range</div></th>
+<th field="marketCapitalization" tabindex="0" class="column-heading market-cap" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Market Cap."  data-id="84" data-m='{"i":84,"p":46,"n":"SortMarketCaptilization","t":"Click","o":38}'><div>Market Cap.</div></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="watchlistsummarytab" data-bind="foreach: portfolioInstruments" class="fin-table-body">
+                                        <!-- ko if: model.instrumentType !=7 -->
+                                        <tr data-bind="click: $root.openInstrumentPage.bind($data, $root)">
+<th class="column-cell row-symbol">
+<a href="" data-bind="attr : { href : clickThroughUrl, title: companyName }" target="_blank" class="SupportedRow"  data-id="85" data-m='{"i":85,"p":46,"n":"SummaryRow","t":"navigation","o":39}'><div class="item-symbol" data-bind='text: symbol'></div></a>
+                                            </th>
+                                            <td class="column-cell row-name">
+<div class="item-fullname" data-bind='text: companyName, attr: { title: companyName }'></div>
+                                            </td>
+
+                                            <td class="column-cell price"><div><span class="pricevalue" data-bind="text: currencySymbol"></span><span class="pricevalue" data-role="currentvalue" data-bind="text: price"></span></div></td>
+                                            <td class="column-cell change">
+                                                <div>
+                                                    <span class="changedirecsmall" data-role="changedir" data-bind="css: changeDirectionCssClass, html: changeDirectionCharacter"></span>
+                                                    <span class="valuechange" data-role="change" data-bind="css: changeDirectionCssClass, text: change"></span>
+                                                    <span class="percentchange" data-role="percentchange" data-bind="css: changeDirectionCssClass, text: changePercent"></span>
+                                                </div>
+                                            </td>
+                                            <td class="column-cell volume"><div data-bind="text: volume"></div></td>
+<td class="column-cell dayrange"><div data-bind="text: dayRange"></div></td>
+<td class="column-cell weekrange"><div data-bind="text: week52Range"></div></td>
+<td class="column-cell market"><div data-bind="text: marketCapitalization"></div></td>
+                                        </tr>
+                                        <!-- /ko -->
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div id="tabpanel-fundamentals" role="tabpanel" aria-labelledby="tab-fundamentals" class="hidetabdata" data-tab-id="2"  data-id="86" data-m='{"i":86,"p":46,"n":"FundamentalsContent","y":6,"o":40}'>
+<table class="fin-table">
+<thead id="panel-heading-fundamentals" class="fin-table-head" data-bind="visible: !$root.inEditingState() && portfolioInstruments().length>0">
+<tr id="watchlist-heading-fundamentals">
+<th field="symbol" tabindex="0" class="column-heading row-symbol" data-bind="click: sortString, clickBubble: false, keyboardSelect: sortString" title="Symbol"  data-id="87" data-m='{"i":87,"p":46,"n":"SortSymbol","t":"Click","o":41}'><div>Symbol</div></th>
+<th field="longName" tabindex="0" class="column-heading row-name" data-bind="click: sortString, clickBubble: false, keyboardSelect: sortString" title="Name"  data-id="88" data-m='{"i":88,"p":46,"n":"SortName","t":"Click","o":42}'><div>Name</div></th>
+<th field="priceToEquityRatio" tabindex="0" class="column-heading pe" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="P/E"  data-id="89" data-m='{"i":89,"p":46,"n":"SortPricePE","t":"Click","o":43}'><div>P/E</div></th>
+<th field="returnOnAsset" tabindex="0" class="column-heading return-assets" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="ROA"  data-id="90" data-m='{"i":90,"p":46,"n":"SortROA","t":"Click","o":44}'><div>ROA</div></th>
+<th field="returnOnEquity" tabindex="0" class="column-heading return-equity" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="ROE"  data-id="91" data-m='{"i":91,"p":46,"n":"SortROE","t":"Click","o":45}'><div>ROE</div></th>
+<th field="earningsPerShare" tabindex="0" class="column-heading price-per-share" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="EPS"  data-id="92" data-m='{"i":92,"p":46,"n":"SortEPS","t":"Click","o":46}'><div>EPS</div></th>
+<th field="netMargin" tabindex="0" class="column-heading net-margin-profit" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Net Margin %"  data-id="93" data-m='{"i":93,"p":46,"n":"SortNetMargin","t":"Click","o":47}'><div>Net Margin %</div>    </th>
+                                            <th field="dividendYield" tabindex="0" class="column-heading dividend-yield" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Div. Yield %"  data-id="94" data-m='{"i":94,"p":46,"n":"SortDivYield","t":"Click","o":48}'><div>Div. Yield %</div></th>
+<th field="revenueGrowth" tabindex="0" class="column-heading revenue-growth" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Revenue Growth %"  data-id="95" data-m='{"i":95,"p":46,"n":"RevGrowth","t":"Click","o":49}'><div>Revenue Growth %</div></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="watchlistfundamentalstab" data-bind="foreach: portfolioInstruments" class="fin-table-body">
+                                        <!-- ko if: model.instrumentType !=7 -->
+                                        <tr data-bind="click: $root.openInstrumentPage.bind($data, $root)">
+<th class="column-cell row-symbol">
+<a href="" data-bind="attr : { href : clickThroughUrl }" target="_blank" class="SupportedRow"  data-id="96" data-m='{"i":96,"p":46,"n":"FundamentalsRow","t":"navigation","o":50}'><div class="item-symbol" data-bind='text: symbol'></div></a>
+                                            </th>
+                                            <td class="column-cell row-name">
+<div class="item-fullname" data-bind='text: companyName, attr: { title: companyName }'></div>
+                                            </td>
+
+                                            <td class="column-cell pe"><div data-bind="text: priceToEquityRatio"></div></td>
+<td class="column-cell return-assets"><div data-bind="text: returnOnAsset"></div></td>
+<td class="column-cell return-equity"><div data-bind="text: returnOnEquity"></div></td>
+<td class="column-cell price-per-share"><div data-bind="text: earningsPerShare"></div></td>
+<td class="column-cell net-margin-profit"><div data-bind="text: netMargin"></div></td>
+<td class="column-cell dividend-yield"><div data-bind="text: dividendYield"></div></td>
+<td class="column-cell revenue-growth"><div data-bind="text: revenueGrowth"></div></td>
+                                        </tr>
+                                        <!-- /ko -->
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div id="tabpanel-holdings" role="tabpanel" aria-labelledby="tab-holdings" class="hidetabdata" data-tab-id="3"  data-id="97" data-m='{"i":97,"p":46,"n":"HoldingsContent","y":6,"o":51}'>
+<table class="fin-table">
+<thead id="panel-heading-holdings" class="fin-table-head" data-bind="visible: !$root.inEditingState() && portfolioInstruments().length>0">
+<tr id="watchlist-heading-holdings">
+<th field="symbol" tabindex="0" class="column-heading row-symbol" data-bind="click: sortString, clickBubble: false, keyboardSelect: sortString" title="Symbol"  data-id="98" data-m='{"i":98,"p":46,"n":"SortSymbol","t":"Click","o":52}'><div>Symbol</div></th>
+<th field="longName" tabindex="0" class="column-heading row-name" data-bind="click: sortString, clickBubble: false, keyboardSelect: sortString" title="Name"  data-id="99" data-m='{"i":99,"p":46,"n":"SortName","t":"Click","o":53}'><div>Name</div></th>
+<th field="totalNoOfShares" tabindex="0" class="column-heading no-of-shares" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="No. of Shares"  data-id="100" data-m='{"i":100,"p":46,"n":"SortNoOfShares","t":"Click","o":54}'><div>No. of Shares</div></th>
+<th field="totalMarketValue" tabindex="0" class="column-heading market-value" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Market Value"  data-id="101" data-m='{"i":101,"p":46,"n":"SortMarketValue","t":"Click","o":55}'><div>Market Value</div></th>
+<th field="dayGain" tabindex="0" class="column-heading daygain" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Day Gain"  data-id="102" data-m='{"i":102,"p":46,"n":"SortDayGain","t":"Click","o":56}'><div>Day Gain</div></th>
+<th field="totalGain" tabindex="0" class="column-heading totalreturn" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Total Return"  data-id="103" data-m='{"i":103,"p":46,"n":"SortTotalReturn","t":"Click","o":57}'><div>Total Return</div></th>
+<th field="realizedGain" tabindex="0" class="column-heading realized-gain" data-bind="click: sortNumber, clickBubble: false, keyboardSelect: sortNumber" title="Realized Return"  data-id="104" data-m='{"i":104,"p":46,"n":"SortRealizedReturn","t":"Click","o":58}'><div>Realized Return</div></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="watchlistholdingstab" data-bind="foreach: portfolioInstruments" class="fin-table-body">
+                                        <!-- ko if: model.instrumentType !=7 -->
+                                        <tr class="watchlist-elements-holdings hovereffect" data-bind="click: $root.openInstrumentPage.bind($data, $root)">
+<th class="column-cell row-symbol">
+<a href="" data-bind="attr : { href : clickThroughUrl }" target="_blank" class="SupportedRow"  data-id="105" data-m='{"i":105,"p":46,"n":"HoldingsRow","t":"navigation","o":59}'>
+<div class="item-symbol" data-bind='text: symbol'></div>
+                                                </a>
+                                            </th>
+                                            <td class="column-cell row-name">
+<div class="item-fullname" data-bind='text: companyName, attr: { title: companyName }'></div>
+                                            </td>
+
+                                            <td class="column-cell no-of-shares"><div data-bind="text: totalNoOfShares"></div></td>
+<td class="column-cell market-value"><div data-bind="text: marketValue"></div></td>
+<td class="column-cell daygain"><div data-bind="text: dayGainPercentValue"></div></td>
+<td class="column-cell totalreturn"><div data-bind="text: totalReturnPercentValue"></div></td>
+<td class="column-cell realized-gain"><div data-bind="text: realizedGainValue"></div></td>
+                                        </tr>
+                                        <!-- /ko -->
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div id="tabpanel-transaction" role="tabpanel" aria-labelledby="tab-transactions" class="hidetabdata" data-tab-id="4"  data-id="106" data-m='{"i":106,"p":46,"n":"TransactionsContent","y":6,"o":60}'>
+<div id="portfolioaddtransaction" class="basemenu addtrmenu">
+<button tabindex="0" class="portfolio-add-button" type="button" data-bind="click: $root.addTransaction , clickBubble: false, keyboardSelect: $root.addTransaction"  data-id="107" data-m='{"i":107,"p":46,"n":"AddTransaction","t":"Button","o":61}'>Add</button>
+<div tabindex="0" class="close-btn" data-bind="click: $root.hideAllBaseMenus, clickBubble: false, keyboardSelect: $root.hideAllBaseMenus"  data-id="108" data-m='{"i":108,"p":46,"n":"Close AddTransaction","t":"Click","o":62}'></div>
+<div class="submenucontent">
+<div class="editcontainer">
+<label class="add-label">Transaction Type</label><select tabindex="0" class="add-control" id="portfolio-addtr-type" data-bind="options: $root.transactionTypes,
+                                               optionsText: 'name',
+                                               value: addTransactionViewModel.transactionType"></select>
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.transactionType.hasError, text: addTransactionViewModel.transactionType.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Date</label><input tabindex="0" class="add-control" id="portfolio-addtr-date" data-bind="datepicker: addTransactionViewModel.transactionDate" type="text" placeholder="Date">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.transactionDate.hasError, text: addTransactionViewModel.transactionDate.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer" data-bind="visible: addTransactionViewModel.transactionType() == undefined || addTransactionViewModel.transactionType().type !== 3">
+<label class="add-label">Units</label><input tabindex="0" class="add-control" id="portfolio-addtr-no-of-shares" data-bind="value: addTransactionViewModel.quantity.formatted, event: { blur: addTransactionViewModel.calculateNewTotal }" type="text" placeholder="Units">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.quantity.hasError, text: addTransactionViewModel.quantity.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer" data-bind="visible: addTransactionViewModel.transactionType() == undefined || addTransactionViewModel.transactionType().type !== 3">
+<label class="add-label">Price</label><input tabindex="0" class="add-control" id="portfolio-addtr-price" data-bind="value: addTransactionViewModel.price.formatted, event: { blur: addTransactionViewModel.calculateNewTotal }" type="text" placeholder="Price">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.price.hasError, text: addTransactionViewModel.price.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer" data-bind="visible: addTransactionViewModel.transactionType() == undefined || addTransactionViewModel.transactionType().type !== 3">
+<label class="add-label">Book Value</label><input tabindex="0" class="add-control" id="portfolio-addtr-value" data-bind="value: addTransactionViewModel.total.formatted, event: { blur: addTransactionViewModel.calculateNewPrice }" type="text" placeholder="Book Value">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.total.hasError, text: addTransactionViewModel.total.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer" data-bind="visible: addTransactionViewModel.transactionType() == undefined || addTransactionViewModel.transactionType().type !== 3">
+<label class="add-label">Exchange Rate</label><input tabindex="0" class="add-control" id="portfolio-addtr-exrate" data-bind="value: addTransactionViewModel.exchangeRate.formatted" type="text" placeholder="Exchange Rate">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.exchangeRate.hasError, text: addTransactionViewModel.exchangeRate.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer" data-bind="visible: addTransactionViewModel.transactionType() && addTransactionViewModel.transactionType().type === 3">
+<label class="add-label">Split Ratio</label><input tabindex="0" class="add-control" id="portfolio-addtr-splitratio" data-bind="value: addTransactionViewModel.splitRatio.formatted" type="text" placeholder="Split Ratio">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.splitRatio.hasError, text: addTransactionViewModel.splitRatio.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Commission</label><input tabindex="0" class="add-control" id="portfolio-addtr-commission" data-bind="value: addTransactionViewModel.commission.formatted" type="text" placeholder="Commission">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.commission.hasError, text: addTransactionViewModel.commission.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Notes</label><input tabindex="0" class="add-control" id="portfolio-addtr-notes" data-bind="textInput: addTransactionViewModel.notes" type="text" , placeholder="Notes">
+<div class="validationmessage" data-bind="visible: addTransactionViewModel.notes.hasError, text: addTransactionViewModel.notes.validationMessage"></div>
+                                        </div>
+
+                                    </div>
+
+                                    <div data-bind="css: { showInline: addTransactionViewModel.errorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: addTransactionViewModel.errorMessage()!=''}, text: addTransactionViewModel.errorMessage"></p>
+                                    </div>
+                                </div>
+
+                                <div id="portfolioaddcashtransaction" class="basemenu addtrmenu">
+<button tabindex="0" class="portfolio-add-button" type="button" data-bind="click: $root.addTransaction , clickBubble: false, keyboardSelect: $root.addTransaction"  data-id="109" data-m='{"i":109,"p":46,"n":"AddCashTransaction","t":"Button","o":63}'>Add</button>
+<div tabindex="0" class="close-btn" data-bind="click: $root.hideAllBaseMenus, clickBubble: false, keyboardSelect: $root.hideAllBaseMenus"  data-id="110" data-m='{"i":110,"p":46,"n":"Close AddCashTransaction","t":"Click","o":64}'></div>
+<div class="submenucontent">
+<div class="editcontainer">
+<label class="add-label">Transaction Type</label><select tabindex="0" class="add-control" id="portfolio-addcashtr-type" data-bind="options: $root.cashTransactionTypes,
+                                               optionsText: 'name',
+                                               value: addCashTransactionViewModel.transactionType"></select>
+<div class="validationmessage" data-bind="visible: addCashTransactionViewModel.transactionType.hasError, text: addCashTransactionViewModel.transactionType.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Date</label><input tabindex="0" class="add-control" id="portfolio-addcashtr-date" data-bind="datepicker: addCashTransactionViewModel.transactionDate" type="text" placeholder="Date">
+<div class="validationmessage" data-bind="visible: addCashTransactionViewModel.transactionDate.hasError, text: addCashTransactionViewModel.transactionDate.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Units</label><input tabindex="0" class="add-control" id="portfolio-addcashtr-no-of-shares" data-bind="value: addCashTransactionViewModel.quantity.formatted, event: { blur: addCashTransactionViewModel.calculateNewTotal }" type="text" placeholder="Units">
+<div class="validationmessage" data-bind="visible: addCashTransactionViewModel.quantity.hasError, text: addCashTransactionViewModel.quantity.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Book Value</label><input tabindex="0" class="add-control" id="portfolio-addcashtr-value" data-bind="value: addCashTransactionViewModel.total.formatted, event: { blur: addCashTransactionViewModel.calculateNewPrice }" type="text" placeholder="Book Value">
+<div class="validationmessage" data-bind="visible: addCashTransactionViewModel.total.hasError, text: addCashTransactionViewModel.total.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Commission</label><input tabindex="0" class="add-control" id="portfolio-addcashtr-commission" data-bind="value: addCashTransactionViewModel.commission.formatted" type="text" placeholder="Commission">
+<div class="validationmessage" data-bind="visible: addCashTransactionViewModel.commission.hasError, text: addCashTransactionViewModel.commission.validationMessage"></div>
+                                        </div>
+
+                                        <div class="editcontainer">
+<label class="add-label">Notes</label><input tabindex="0" class="add-control" id="portfolio-addcashtr-notes" data-bind="textInput: addCashTransactionViewModel.notes" type="text" , placeholder="Notes">
+<div class="validationmessage" data-bind="visible: addCashTransactionViewModel.notes.hasError, text: addCashTransactionViewModel.notes.validationMessage"></div>
+                                        </div>
+
+                                    </div>
+
+                                    <div data-bind="css: { showInline: addCashTransactionViewModel.errorMessage()!=''}">
+<div class="editbreak"></div>
+<p data-bind="css: { showError: addCashTransactionViewModel.errorMessage()!=''}, text: addCashTransactionViewModel.errorMessage"></p>
+                                    </div>
+                                </div>
+                                <table class="fin-table">
+<thead id="panel-heading-transactions" class="fin-table-head" data-bind="visible: !$root.inEditingState() && portfolioInstruments().length>0">
+                                        <tr>
+                                            <th class="column-heading transactions" colspan="2"><div>Transactions</div></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="portfolio-transactionstab" data-bind="foreach: editTransactions" class="fin-table-body">
+<tr data-bind="css: { samecurrency: isSameCurrency(), cash: instrumentType == 7 }">
+<th class="tr-row-heading">
+<div class="tr-label">
+                                                    <!-- ko if: instrumentType != 7 -->
+                                                    <label class="transaction-symbol" data-bind="text: displaySymbol, click: $root.editEntityId.bind($data, $root)"  data-id="111" data-m='{"i":111,"p":46,"n":"EditEntityId","t":"Click","o":65}'></label>
+                                                    <!-- /ko -->
+                                                    <!-- ko if: instrumentType == 7 -->
+                                                    <label class="transaction-symbol isCash" data-bind="text: displaySymbol"></label>
+                                                    <!-- /ko -->
+                                                </div>
+                                            </th>
+                                            <td>
+                                                <label class="transaction-instrumentname" data-bind="text: companyName, attr: { title: companyName }"></label>
+                                                <!-- ko if: transactions().length > 0 -->
+                                                <table>
+                                                    <thead>
+                                                        <tr class="transaction-heading">
+                                                            <th class="transaction-type"><label>Transaction Type</label></th>
+                                                            <th class="transaction-date"><label>Date</label></th>
+                                                            <th class="transaction-unit"><label>Units</label></th>
+                                                            <th class="transaction-price"><label>Price</label></th>
+                                                            <th class="transaction-value"><label>Book Value</label></th>
+                                                            <th class="transaction-exrate"><label>Exchange Rate</label></th>
+                                                            <th class="transaction-split"><label>Split Ratio</label></th>
+                                                            <th class="transaction-commission"><label>Commission</label></th>
+                                                            <th class="transaction-notes"><label>Notes</label></th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody data-bind="foreach: transactions, css: { samecurrency: isSameCurrency() }">
+<tr class="transaction-row">
+                                                            <td class="transaction-type">
+                                                                <!-- ko if: $parent.instrumentType != 7 -->
+                                                                <select tabindex="0" data-bind="options: $root.transactionTypes,
+                                                                       optionsText: 'name',
+                                                                       value: transactionType"></select>
+                                                                <!-- /ko -->
+                                                                <!-- ko if: $parent.instrumentType == 7 -->
+                                                                <select tabindex="0" data-bind="options: $root.cashTransactionTypes,
+                                                                       optionsText: 'name',
+                                                                       value: transactionType"></select>
+                                                                <!-- /ko -->
+                                                            </td>
+                                                            <td class="transaction-date">
+                                                                <input tabindex="0" data-bind="datepicker: transactionDate" type="text" placeholder="Date">
+                                                            </td>
+                                                            <td class="transaction-unit" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+                                                                <input tabindex="0" data-bind="value: quantity.formatted, event: { blur: calculateNewTotal }" type="text" placeholder="Units">
+                                                            </td>
+                                                            <td class="transaction-price" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+                                                                <input tabindex="0" data-bind="value: price.formatted, event: { blur: calculateNewTotal }" type="text" placeholder="Price">
+                                                            </td>
+                                                            <td class="transaction-value" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+                                                                <input tabindex="0" data-bind="value: total.formatted, event: { blur: calculateNewPrice }" type="text" placeholder="Book Value">
+                                                            </td>
+                                                            <td class="transaction-exrate" data-bind="visible: transactionType() == null || transactionType().type !== 3">
+                                                                <input tabindex="0" data-bind="value: exchangeRate.formatted" type="text" placeholder="Exchange Rate">
+                                                            </td>
+                                                            <td class="transaction-split" data-bind="visible: transactionType() && transactionType().type === 3">
+                                                                <div class="transaction-splitlab">
+                                                                    <label data-bind="attr : { for: 'split-ratio-'+id }">Split Ratio</label>
+                                                                </div>
+                                                                <div class="transaction-splitdv">
+                                                                    <input tabindex="0" data-bind="value: splitRatio.formatted, attr : { id: 'split-ratio-'+id }" type="text" placeholder="Split Ratio">
+                                                                </div>
+                                                            </td>
+                                                            <td class="transaction-commission">
+                                                                <input tabindex="0" data-bind="value: commission.formatted" type="text" placeholder="Commission">
+                                                            </td>
+                                                            <td class="transaction-notes">
+                                                                <input tabindex="0" data-bind="textInput: notes" type="text" , placeholder="Notes">
+                                                            </td>
+                                                            <td class="tr-btn">
+                                                                <span tabindex="0" class="delete" data-bind='click: $root.deleteTransaction.bind($data, $parent, $root), keyboardSelect: $root.deleteTransaction.bind($data, $parent, $root)'></span>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <!-- /ko -->
+                                                <ul>
+                                                    <li class="add-transaction">
+                                                        <div>
+                                                            <!-- ko if: instrumentType != 7 -->
+                                                            <span tabindex="0" data-bind="click: $root.showTransactionMenu.bind($data, $root),  keyboardSelect: $root.showTransactionMenu.bind($data, $root)"  data-id="112" data-m='{"i":112,"p":46,"n":"ShowAddTransactionMenu","t":"Click","o":66}'>+ Add Transaction Data</span>
+                                                            <!-- /ko -->
+                                                            <!-- ko if: instrumentType == 7 -->
+                                                            <span tabindex="0" class="isCash" data-bind="click: $root.showTransactionMenu.bind($data, $root),  keyboardSelect: $root.showTransactionMenu.bind($data, $root)"  data-id="113" data-m='{"i":113,"p":46,"n":"ShowAddCashTransactionMenu","t":"Click","o":67}'>+ Add Transaction Data</span>
+                                                            <!-- /ko -->
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                            </div>
+
+                        </div>
+
+                        <div id="portfolio-editing" data-bind="visible: $root.selectedTab() && $root.selectedTab() !== 4 && $root.inEditingState()"  data-id="114" data-m='{"i":114,"p":46,"n":"EditingInstruments","y":6,"o":68}'>
+<table class="fin-table">
+<thead class="fin-table-head">
+                                    <tr>
+                                        <th tabindex="0" class="column-heading row-symbol">
+<div>Symbol</div>
+                                        </th>
+                                        <th tabindex="0" class="column-heading row-name">
+<div>Name</div>
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody id="pi-edit-sort" class="fin-table-body" data-bind="foreach: editInstruments, sortableArray: editInstruments">
+<tr class="pi-edit" tabindex="0" data-bind="css: cssClass">
+<th class="column-cell row-symbol">
+<div class="item-symbol" data-bind='text: symbol'></div>
+                                        </th>
+                                        <td class="column-cell row-name">
+<div class="pi-edit-in">
+<div class="item-fullname" data-bind='text: companyName'></div>
+<div class="pi-btns" data-bind="css: $root.piBtnCss" tabindex="0">
+<span tabindex="0" class="pi-btn moveup" role="button" data-bind='click: $root.moveUp.bind($data, $root), keyboardSelect: $root.moveUp.bind($data, $root)'></span>
+                                                    <span tabindex="0" class="pi-btn movedown" role="button" data-bind='click: $root.moveDown.bind($data, $root), keyboardSelect: $root.moveDown.bind($data, $root)'></span>
+                                                    <span tabindex="0" class="pi-btn delete" role="button" data-bind='click: $root.deleteInstrument.bind($data, $root), keyboardSelect: $root.deleteInstrument.bind($data, $root)'></span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+ <script type="text/javascript">
+var defaultCurrency = 'USD';
+            var currencyInfoDictionary = JSON.parse(JSON.stringify({"AFN":{"ID":"0","Country":"Afghanistan","Currency":"Afghani","Symbol":"؋","CountryCode":"AFG","FullCurrencyName":"Afghanistan Afghani","PMID":"NA"},"ALL":{"ID":"1","Country":"Albania","Currency":"Lek","Symbol":"ALL","CountryCode":"ALB","FullCurrencyName":"Albanian Lek","PMID":"71"},"DZD":{"ID":"2","Country":"Algeria","Currency":"Dinar","Symbol":"د.ج.‏","CountryCode":"DZA","FullCurrencyName":"Algerian Dinar","PMID":"48"},"ARS":{"ID":"3","Country":"Argentina","Currency":"Peso","Symbol":"$","CountryCode":"ARG","FullCurrencyName":"Argentine Peso","PMID":"10"},"AWG":{"ID":"4","Country":"Aruba","Currency":"Guilder","Symbol":"ƒ","CountryCode":"ABW","FullCurrencyName":"Aruba Florin","PMID":"72"},"AUD":{"ID":"5","Country":"Australia","Currency":"Dollar","Symbol":"$","CountryCode":"AUS","FullCurrencyName":"Australian Dollar","PMID":"8"},"AZN":{"ID":"6","Country":"Azerbaijan","Currency":"New Manat","Symbol":"ман","CountryCode":"AZE","FullCurrencyName":"Azerbaijan New Manat","PMID":"NA"},"BSD":{"ID":"7","Country":"Bahamas, The","Currency":"Dollar","Symbol":"B$","CountryCode":"BHS","FullCurrencyName":"Bahamian Dollar","PMID":"73"},"BHD":{"ID":"8","Country":"Bahrain","Currency":"Dinar","Symbol":".د.ب ","CountryCode":"BHR","FullCurrencyName":"Bahraini Dinar","PMID":"57"},"BDT":{"ID":"9","Country":"Bangladesh","Currency":"Taka","Symbol":"৳ ","CountryCode":"BGD","FullCurrencyName":"Bangladesh Taka","PMID":"74"},"BBD":{"ID":"10","Country":"Barbados","Currency":"Dollar","Symbol":"$","CountryCode":"BRB","FullCurrencyName":"Barbados Dollar","PMID":"75"},"BYR":{"ID":"11","Country":"Belarus","Currency":"Ruble","Symbol":"p.","CountryCode":"BLR","FullCurrencyName":"Belarus Ruble","PMID":"NA"},"BZD":{"ID":"12","Country":"Belize","Currency":"Dollar","Symbol":"BZ$","CountryCode":"BLZ","FullCurrencyName":"Belize Dollar","PMID":"76"},"BMD":{"ID":"13","Country":"Bermuda","Currency":"Dollar","Symbol":"$","CountryCode":"BMU","FullCurrencyName":"Bermuda Dollar","PMID":"77"},"BOB":{"ID":"14","Country":"Bolivia","Currency":"Boliviano","Symbol":"$b","CountryCode":"BOL","FullCurrencyName":"Bolivian Boliviano","PMID":"13"},"BAM":{"ID":"15","Country":"Bosnia and Herzegovina","Currency":"Convertible Marka","Symbol":"KM","CountryCode":"BIH","FullCurrencyName":"Bosnia and Herzegovina Convertible Marka","PMID":"79"},"BWP":{"ID":"16","Country":"Botswana","Currency":"Pula","Symbol":"P","CountryCode":"BWA","FullCurrencyName":"Botswana pula","PMID":"52"},"BRL":{"ID":"17","Country":"Brazil","Currency":"Real","Symbol":"R$","CountryCode":"BRA","FullCurrencyName":"Brazilian Real","PMID":"14"},"BND":{"ID":"18","Country":"Brunei","Currency":"Dollar","Symbol":"$","CountryCode":"BRN","FullCurrencyName":"Brunei Dollar","PMID":"80"},"BGN":{"ID":"19","Country":"Bulgaria","Currency":"Lev","Symbol":"лв","CountryCode":"BGR","FullCurrencyName":"Bulgarian Lev","PMID":"81"},"BIF":{"ID":"20","Country":"Burundi","Currency":"Franc","Symbol":"Fbu","CountryCode":"BDI","FullCurrencyName":"Burundi Franc","PMID":"82"},"KHR":{"ID":"21","Country":"Cambodia","Currency":"Riel","Symbol":"៛","CountryCode":"KHM","FullCurrencyName":"Cambodia Riel","PMID":"83"},"CAD":{"ID":"22","Country":"Canada","Currency":"Dollar","Symbol":"$","CountryCode":"CAN","FullCurrencyName":"Canadian Dollar","PMID":"2"},"CVE":{"ID":"23","Country":"Cabo Verde","Currency":"Escudo","Symbol":"Esc","CountryCode":"CPV","FullCurrencyName":"Cape Verde Escudo","PMID":"84"},"KYD":{"ID":"24","Country":"Cayman Islands","Currency":"Dollar","Symbol":"$","CountryCode":"CYM","FullCurrencyName":"Cayman Islands Dollar","PMID":"85"},"CLP":{"ID":"25","Country":"Chile","Currency":"Peso","Symbol":"$","CountryCode":"CHL","FullCurrencyName":"Chilean Peso ","PMID":"16"},"CNY":{"ID":"26","Country":"China","Currency":"Yuan","Symbol":"¥","CountryCode":"CHN","FullCurrencyName":"Chinese Yuan (RMB)","PMID":"17"},"COP":{"ID":"27","Country":"Colombia","Currency":"Peso","Symbol":"$","CountryCode":"COL","FullCurrencyName":"Colombian Peso","PMID":"18"},"KMF":{"ID":"28","Country":"Comoros","Currency":"Franc","Symbol":"CF","CountryCode":"COM","FullCurrencyName":"Comoros Franc","PMID":"86"},"CDF":{"ID":"29","Country":"Congo","Currency":"Franc","Symbol":"F","CountryCode":"COG","FullCurrencyName":"Congo Franc","PMID":"NA"},"CRC":{"ID":"30","Country":"Costa Rica","Currency":"Colon","Symbol":"₡","CountryCode":"CRI","FullCurrencyName":"Costa Rica Colon","PMID":"87"},"HRK":{"ID":"31","Country":"Croatia","Currency":"Kuna","Symbol":"kn","CountryCode":"HRV","FullCurrencyName":"Croatian Kuna","PMID":"88"},"CZK":{"ID":"32","Country":"Czech Republic","Currency":"Koruna","Symbol":"Kč","CountryCode":"CZE","FullCurrencyName":"Czech Koruna ","PMID":"19"},"DKK":{"ID":"33","Country":"Denmark","Currency":"Krone","Symbol":"kr","CountryCode":"DNK","FullCurrencyName":"Danish Krone","PMID":"20"},"DJF":{"ID":"34","Country":"Djibouti","Currency":"Franc","Symbol":"Fdj","CountryCode":"DJI","FullCurrencyName":"Dijibouti Franc","PMID":"89"},"DOP":{"ID":"35","Country":"Dominican Republic","Currency":"Peso","Symbol":"RD$","CountryCode":"DOM","FullCurrencyName":"Dominican Peso ","PMID":"90"},"EGP":{"ID":"36","Country":"Egypt","Currency":"Pound","Symbol":"ج.م.‏","CountryCode":"EGY","FullCurrencyName":"Egyptian Pound","PMID":"92"},"ETB":{"ID":"38","Country":"Ethiopia","Currency":"Birr","Symbol":"ETB","CountryCode":"ETH","FullCurrencyName":"Ethiopian Birr","PMID":"94"},"EUR":{"ID":"39","Country":"Europe","Currency":"Euro","Symbol":"€","CountryCode":"EUR","FullCurrencyName":"Euro","PMID":"9"},"FJD":{"ID":"40","Country":"Fiji","Currency":"Dollar","Symbol":"$","CountryCode":"FJI","FullCurrencyName":"Fiji Dollar","PMID":"95"},"GMD":{"ID":"41","Country":"Gambia, The","Currency":"Dalasi","Symbol":"D","CountryCode":"GMB","FullCurrencyName":"Gambian Dalasi","PMID":"97"},"GEL":{"ID":"42","Country":"Georgia","Currency":"Lari","Symbol":"GEL","CountryCode":"GEO","FullCurrencyName":"Georgia Lari","PMID":"98"},"GHS":{"ID":"43","Country":"Ghana","Currency":"Cedi","Symbol":"¢","CountryCode":"GHA","FullCurrencyName":"Ghanian Cedi","PMID":"53"},"GTQ":{"ID":"44","Country":"Guatemala","Currency":"Quetzal","Symbol":"Q","CountryCode":"GTM","FullCurrencyName":"Guatemala Quetzal","PMID":"45"},"GNF":{"ID":"45","Country":"Guinea","Currency":"Franc","Symbol":"FG","CountryCode":"GIN","FullCurrencyName":"Guinea Franc","PMID":"NA"},"HTG":{"ID":"46","Country":"Haiti","Currency":"Gourde","Symbol":"G","CountryCode":"HTI","FullCurrencyName":"Haiti Gourde","PMID":"100"},"HNL":{"ID":"47","Country":"Honduras","Currency":"Lempira","Symbol":"L","CountryCode":"HND","FullCurrencyName":"Honduras Lempira","PMID":"101"},"HKD":{"ID":"48","Country":"Hong Kong SAR","Currency":"Dollar","Symbol":"HK$","CountryCode":"HKG","FullCurrencyName":"Hong Kong Dollar","PMID":"24"},"HUF":{"ID":"49","Country":"Hungary","Currency":"Forint","Symbol":"Ft","CountryCode":"HUN","FullCurrencyName":"Hungarian Forint","PMID":"25"},"ISK":{"ID":"50","Country":"Iceland","Currency":"Krona","Symbol":"kr","CountryCode":"ISL","FullCurrencyName":"Iceland Krona","PMID":"102"},"INR":{"ID":"51","Country":"India","Currency":"Rupee","Symbol":"₹","CountryCode":"IND","FullCurrencyName":"Indian Rupee","PMID":"59"},"IDR":{"ID":"52","Country":"Indonesia","Currency":"Rupiah","Symbol":"Rp","CountryCode":"IDN","FullCurrencyName":"Indonesian Rupiah","PMID":"26"},"IQD":{"ID":"53","Country":"Iraq","Currency":"Dinar","Symbol":"د.ع.‏","CountryCode":"IRQ","FullCurrencyName":"Iraqi Dinar","PMID":"152"},"ILS":{"ID":"54","Country":"Israel","Currency":"Shekel","Symbol":"₪","CountryCode":"ISR","FullCurrencyName":"Israeli Shekel","PMID":"50"},"JMD":{"ID":"55","Country":"Jamaica","Currency":"Dollar","Symbol":"J$","CountryCode":"JAM","FullCurrencyName":"Jamaican Dollar","PMID":"104"},"JPY":{"ID":"56","Country":"Japan","Currency":"Yen","Symbol":"¥","CountryCode":"JPN","FullCurrencyName":"Japanese Yen","PMID":"7"},"JOD":{"ID":"57","Country":"Jordan","Currency":"Dinar","Symbol":"د.ا.‏","CountryCode":"JOR","FullCurrencyName":"Jordanian Dinar","PMID":"60"},"KZT":{"ID":"58","Country":"Kazakhstan","Currency":"Tenge","Symbol":"лв","CountryCode":"KAZ","FullCurrencyName":"Kazakhstan Tenge","PMID":"105"},"KES":{"ID":"59","Country":"Kenya","Currency":"Shilling","Symbol":"KSh","CountryCode":"KEN","FullCurrencyName":"Kenyan Shilling ","PMID":"54"},"KRW":{"ID":"60","Country":"Korea","Currency":"Won","Symbol":"₩","CountryCode":"KOR","FullCurrencyName":"South Korean Won","PMID":"28"},"KWD":{"ID":"61","Country":"Kuwait","Currency":"Dinar","Symbol":"د.ك.‏","CountryCode":"KWT","FullCurrencyName":"Kuwaiti Dinar","PMID":"61"},"LAK":{"ID":"62","Country":"Laos","Currency":"Kip","Symbol":"₭","CountryCode":"LAO","FullCurrencyName":"Lao Kip","PMID":"106"},"LVL":{"ID":"63","Country":"Latvia","Currency":"Lat","Symbol":"Ls","CountryCode":"LVA","FullCurrencyName":"Latvian Lat","PMID":"107"},"LBP":{"ID":"64","Country":"Lebanon","Currency":"Pound","Symbol":" ل.ل.‏","CountryCode":"LBN","FullCurrencyName":"Lebanese Pound ","PMID":"62"},"LSL":{"ID":"65","Country":"Lesotho","Currency":"Loti","Symbol":"L","CountryCode":"LSO","FullCurrencyName":"Lesotho Loti","PMID":"108"},"LRD":{"ID":"66","Country":"Liberia","Currency":"Dollar","Symbol":"$","CountryCode":"LBR","FullCurrencyName":"Liberian Dollar","PMID":"109"},"LYD":{"ID":"67","Country":"Libya","Currency":"Dinar","Symbol":"د.ل.‏","CountryCode":"LBY","FullCurrencyName":"Libyan Dinar","PMID":"110"},"LTL":{"ID":"68","Country":"Lithuania","Currency":"Litas","Symbol":"Lt","CountryCode":"LTU","FullCurrencyName":"Lithuanian Lita","PMID":"111"},"MOP":{"ID":"69","Country":"Macao SAR","Currency":"Pataca","Symbol":"P","CountryCode":"MAC","FullCurrencyName":"Macau Pataca","PMID":"112"},"MKD":{"ID":"70","Country":"Macedonia, FYRO","Currency":"Denar","Symbol":"ден","CountryCode":"MKD","FullCurrencyName":"Macedonian Denar","PMID":"NA"},"MGA":{"ID":"71","Country":"Madagascar","Currency":"Malagasy Ariary","Symbol":"Ar","CountryCode":"MDG","FullCurrencyName":"Madagascar Malagasy Ariary","PMID":"NA"},"MWK":{"ID":"72","Country":"Malawi","Currency":"Kwacha","Symbol":"MK","CountryCode":"MWI","FullCurrencyName":"Malawi Kwacha","PMID":"114"},"MYR":{"ID":"73","Country":"Malaysia","Currency":"Ringgit","Symbol":"RM","CountryCode":"MYS","FullCurrencyName":"Malaysian Ringgit","PMID":"51"},"MVR":{"ID":"74","Country":"Maldives","Currency":"Rufiyaa","Symbol":"Rf","CountryCode":"MDV","FullCurrencyName":"Maldives Rufiyaa","PMID":"115"},"MRO":{"ID":"75","Country":"Mauritania","Currency":"Ouguiya","Symbol":"UM","CountryCode":"MRT","FullCurrencyName":"Mauritania Ougulya","PMID":"117"},"MUR":{"ID":"76","Country":"Mauritius","Currency":"Rupee","Symbol":"₨","CountryCode":"MUS","FullCurrencyName":"Mauritius Rupee","PMID":"118"},"MXN":{"ID":"77","Country":"Mexico","Currency":"Peso","Symbol":"$","CountryCode":"MEX","FullCurrencyName":"Mexican Peso","PMID":"30"},"MDL":{"ID":"78","Country":"Moldova","Currency":"Leu","Symbol":"MDL","CountryCode":"MDA","FullCurrencyName":"Moldovan Leu","PMID":"119"},"MAD":{"ID":"79","Country":"Morocco","Currency":"Dirham","Symbol":"د.م.‏","CountryCode":"MAR","FullCurrencyName":"Moroccan Dirham","PMID":"46"},"MZN":{"ID":"80","Country":"Mozambique","Currency":"Metical","Symbol":"MT","CountryCode":"MOZ","FullCurrencyName":"Mozambique Metical","PMID":"121"},"MMK":{"ID":"81","Country":"Myanmar","Currency":"Kyat","Symbol":"K","CountryCode":"MMR","FullCurrencyName":"Myanmar Kyat","PMID":"NA"},"NAD":{"ID":"82","Country":"Namibia","Currency":"Dollar","Symbol":"$","CountryCode":"NAM","FullCurrencyName":"Namibian Dollar","PMID":"55"},"NPR":{"ID":"83","Country":"Nepal","Currency":"Rupee","Symbol":"₨","CountryCode":"NPL","FullCurrencyName":"Nepalese Rupee","PMID":"122"},"NZD":{"ID":"84","Country":"New Zealand","Currency":"Dollar","Symbol":"$","CountryCode":"NZL","FullCurrencyName":"New Zealand Dollar","PMID":"32"},"NIO":{"ID":"85","Country":"Nicaragua","Currency":"Cordoba","Symbol":"C$","CountryCode":"NIC","FullCurrencyName":"Nicaragua Cordoba","PMID":"123"},"NGN":{"ID":"86","Country":"Nigeria","Currency":"Naira","Symbol":"₦","CountryCode":"NGA","FullCurrencyName":"Nigerian Naira","PMID":"124"},"NOK":{"ID":"87","Country":"Norway","Currency":"Krone","Symbol":"kr","CountryCode":"NOR","FullCurrencyName":"Norwegian Krone","PMID":"33"},"OMR":{"ID":"88","Country":"Oman","Currency":"Rial","Symbol":"ر.ع","CountryCode":"OMN","FullCurrencyName":"Omani Rial","PMID":"63"},"PKR":{"ID":"89","Country":"Pakistan","Currency":"Rupee","Symbol":"₨","CountryCode":"PAK","FullCurrencyName":"Pakistani Rupee","PMID":"64"},"PAB":{"ID":"90","Country":"Panama","Currency":"Balboa","Symbol":"B/.","CountryCode":"PAN","FullCurrencyName":"Panama Balboa","PMID":"154"},"PGK":{"ID":"91","Country":"Papua New Guinea","Currency":"Kina","Symbol":"K","CountryCode":"PNG","FullCurrencyName":"Papua New Guinea Kina ","PMID":"125"},"PYG":{"ID":"92","Country":"Paraguay","Currency":"Guarani","Symbol":"Gs","CountryCode":"PRY","FullCurrencyName":"Paraguayan Guarani","PMID":"126"},"PEN":{"ID":"93","Country":"Peru","Currency":"Nuevo Sol","Symbol":"S/.","CountryCode":"PER","FullCurrencyName":"Peruvian Nuevo Sol","PMID":"34"},"PHP":{"ID":"94","Country":"Philippines","Currency":"Peso","Symbol":"₱","CountryCode":"PHL","FullCurrencyName":"Philippine Peso","PMID":"65"},"PLN":{"ID":"95","Country":"Poland","Currency":"Zloty","Symbol":"zł","CountryCode":"POL","FullCurrencyName":"Polish Zloty","PMID":"35"},"QAR":{"ID":"96","Country":"Qatar","Currency":"Riyal","Symbol":"ر.ق.‏","CountryCode":"QAT","FullCurrencyName":"Qatari Rial ","PMID":"66"},"RON":{"ID":"97","Country":"Romania","Currency":"New Leu","Symbol":"lei","CountryCode":"ROU","FullCurrencyName":"Romanian New Leu ","PMID":"127"},"RUB":{"ID":"98","Country":"Russia","Currency":"Ruble","Symbol":"руб","CountryCode":"RUS","FullCurrencyName":"Russian Rouble","PMID":"37"},"RWF":{"ID":"99","Country":"Rwanda","Currency":"Franc","Symbol":"RF","CountryCode":"RWA","FullCurrencyName":"Rwanda Franc ","PMID":"128"},"SHP":{"ID":"100","Country":"Saint Helena, Ascension and Tristan da Cunha","Currency":"Pound","Symbol":"£","CountryCode":"SHN","FullCurrencyName":"Saint Helena Ascension and Tristan da Cunha Pound","PMID":"NA"},"STD":{"ID":"101","Country":"São Tomé\t and Príncipe","Currency":"Dobra","Symbol":"Db","CountryCode":"STP","FullCurrencyName":"Sao Toma Dobra","PMID":"129"},"SAR":{"ID":"102","Country":"Saudi Arabia","Currency":"Riyal","Symbol":"SR","CountryCode":"SAU","FullCurrencyName":"Saudi Arabian Riyal ","PMID":"67"},"RSD":{"ID":"103","Country":"Serbia","Currency":"Dinar","Symbol":"Дин.","CountryCode":"SRB","FullCurrencyName":"Serbia Dinar","PMID":"NA"},"SCR":{"ID":"104","Country":"Seychelles","Currency":"Rupee","Symbol":"₨","CountryCode":"SYC","FullCurrencyName":"Seychelles Rupee","PMID":"132"},"SLL":{"ID":"105","Country":"Sierra Leone","Currency":"Leone","Symbol":"Le","CountryCode":"SLE","FullCurrencyName":"Sierra Leone Leone ","PMID":"133"},"SGD":{"ID":"106","Country":"Singapore","Currency":"Dollar","Symbol":"S$","CountryCode":"SGP","FullCurrencyName":"Singapore Dollar","PMID":"40"},"SOS":{"ID":"107","Country":"Somalia","Currency":"Shilling","Symbol":"S","CountryCode":"SOM","FullCurrencyName":"Somali Shilling ","PMID":"136"},"ZAR":{"ID":"108","Country":"South Africa","Currency":"Rand","Symbol":"R","CountryCode":"ZAF","FullCurrencyName":"South African Rand","PMID":"44"},"LKR":{"ID":"109","Country":"Sri Lanka","Currency":"Rupee","Symbol":"₨","CountryCode":"LKA","FullCurrencyName":"Sri Lanka Rupee ","PMID":"137"},"SZL":{"ID":"110","Country":"Swaziland","Currency":"Lilangeni","Symbol":"E","CountryCode":"SWZ","FullCurrencyName":"Swaziland Lilageni","PMID":"139"},"SEK":{"ID":"111","Country":"Sweden","Currency":"Krona","Symbol":"kr","CountryCode":"SWE","FullCurrencyName":"Swedish Krona ","PMID":"39"},"CHF":{"ID":"112","Country":"Switzerland","Currency":"Franc","Symbol":"CHF","CountryCode":"CHE","FullCurrencyName":"Swiss Franc","PMID":"15"},"TWD":{"ID":"113","Country":"Taiwan","Currency":"New Dollar","Symbol":"NT$","CountryCode":"TWN","FullCurrencyName":"Taiwan Dollar","PMID":"42"},"TZS":{"ID":"114","Country":"Tanzania","Currency":"Shilling","Symbol":"TSh","CountryCode":"TZA","FullCurrencyName":"Tanzanian Shilling ","PMID":"68"},"THB":{"ID":"115","Country":"Thailand","Currency":"Baht","Symbol":"฿","CountryCode":"THA","FullCurrencyName":"Thai Baht","PMID":"41"},"TTD":{"ID":"116","Country":"Trinidad and Tobago","Currency":"Dollar","Symbol":"$","CountryCode":"TTO","FullCurrencyName":"Trinidad and Tobago Dollar","PMID":"142"},"TND":{"ID":"117","Country":"Tunisia","Currency":"Dinar","Symbol":"د.ت.‏","CountryCode":"TUN","FullCurrencyName":"Tunisian Dinar","PMID":"47"},"TRY":{"ID":"118","Country":"Turkey","Currency":"Lira","Symbol":"TRY","CountryCode":"TUR","FullCurrencyName":"Turkish Lira ","PMID":"49"},"TMT":{"ID":"119","Country":"Turkmenistan","Currency":"Manat","Symbol":"m","CountryCode":"TKM","FullCurrencyName":"Turkmenistan Manat","PMID":"143"},"UGX":{"ID":"120","Country":"Uganda","Currency":"Shilling","Symbol":"Ush","CountryCode":"UGA","FullCurrencyName":"Ugandan Shilling ","PMID":"144"},"UAH":{"ID":"121","Country":"Ukraine","Currency":"Hryvna","Symbol":"₴","CountryCode":"UKR","FullCurrencyName":"Ukraine Hryvnia","PMID":"145"},"AED":{"ID":"122","Country":"United Arab Emirates","Currency":"Dirham","Symbol":" د.إ.‏","CountryCode":"ARE","FullCurrencyName":"UAE Dirham ","PMID":"69"},"GBP":{"ID":"123","Country":"United Kingdom","Currency":"British Pound","Symbol":"£","CountryCode":"GBR","FullCurrencyName":"British Pound","PMID":"3"},"USD":{"ID":"124","Country":"United States","Currency":"Dollar","Symbol":"$","CountryCode":"USA","FullCurrencyName":"United States Dollar","PMID":"1"},"UYU":{"ID":"125","Country":"Uruguay","Currency":"Peso","Symbol":"$U","CountryCode":"URY","FullCurrencyName":"Uruguayan New Peso","PMID":"146"},"UZS":{"ID":"126","Country":"Uzbekistan","Currency":"Som","Symbol":"лв","CountryCode":"UZB","FullCurrencyName":"Uzbekistan Som","PMID":"147"},"VEF":{"ID":"127","Country":"Venezuela","Currency":"Bolivar Fuerte","Symbol":"Bs","CountryCode":"VEN","FullCurrencyName":"Venezuelan Bolivar Fuerte","PMID":"43"},"VND":{"ID":"128","Country":"Vietnam","Currency":"Dong","Symbol":"₫","CountryCode":"VNM","FullCurrencyName":"Vietnam Dong","PMID":"70"},"YER":{"ID":"129","Country":"Yemen","Currency":"Rial","Symbol":"ر.ي.‏","CountryCode":"YEM","FullCurrencyName":"Yemen Riyal","PMID":"150"},"ZMK":{"ID":"130","Country":"Zambia","Currency":"Kwacha","Symbol":"ZK","CountryCode":"ZMB","FullCurrencyName":"Zambian Kwacha","PMID":"151"},"XCD":{"ID":"132","Country":"OECS","Currency":"OECS Dollar","Symbol":"EC$","CountryCode":"XCD","FullCurrencyName":"East Caribbean Dollar","PMID":"NA"},"XPF":{"ID":"133","Country":"French overseas collectivities","Currency":"CFP Franc","Symbol":"F","CountryCode":"XPF","FullCurrencyName":"Central Pacific Franc","PMID":"NA"},"XAF":{"ID":"134","Country":"Central Africa","Currency":"CFA Franc","Symbol":"FCFA","CountryCode":"XAF","FullCurrencyName":"Central African Franc","PMID":"NA"},"CUP":{"ID":"135","Country":"Cuba","Currency":"Peso","Symbol":"$","CountryCode":"CUB","FullCurrencyName":"Peso","PMID":"NA"},"XOF":{"ID":"136","Country":"Western Africa","Currency":"CFA Franc","Symbol":"CFA","CountryCode":"XOF","FullCurrencyName":"Western African Franc","PMID":"NA"},"SDG":{"ID":"137","Country":"Sudan","Currency":"Pound","Symbol":"junaih","CountryCode":"SD","FullCurrencyName":"Sudanese Pound","PMID":"NA"}}));
+            require(["PortfolioController", "LocaleSettings", "c.dom"], function (portfolioController)
+            {
+                portfolioController.initialisePortfolio(true);
+});
+</script>
+ 
+</div>
+
+</div>
+<div class="bingNewsContainer">
+
+ <div  class="pagingsection"
+  data-id="115" data-m='{"i":115,"p":43,"n":"bdiSection","t":"paging","o":4}'
+  data-aop="bdisection_paging"
+  data-section-id="bdisection"
+  role="region"
+  aria-labelledby="bdisection-headingtext">
+ 
+<button class="leftarrow"
+tabindex="-1"
+ data-id="116" data-m='{"i":116,"p":115,"n":"pagingarrow","y":11,"l":"leftarrow","o":1}'
+  title="previous"
+  role="presentation"></button>
+<div class="full-width">
+ 
+ 
+<div class="sectioncontent">
+
+
+<div id="pdp-module"  data-module-id="WatchlistPage|bdiSection|paging|financeportfoliobingnewsdummymodule|FinancePortfolioBingNewsDummyModule">
+
+</div>
+ </div>
+<div class="paging"></div>
+</div>
+<button class="rightarrow"
+tabindex="-1"
+ data-id="117" data-m='{"i":117,"p":115,"n":"pagingarrow","y":11,"l":"rightarrow","o":2}'
+  title="next"
+  role="presentation"></button>
+ 
+</div>
+
+ </div>
+</div>
+        <script>
+            require(["jquery", "c.deferred"], function($)
+            {
+                $(".finance-watchlist").data("bingnewsurl", "/en-us/money/ajax/portfoliobingnews");
+});
+</script>
+ <script>
+var host = 'www.msn.com';
+var locale = 'en-us';
+var vertical = 'money';
+        var redirectedUrl = "http://" + host + "/" + locale + "/" + vertical + "/" + "notimplemented";
+        require(["jquery", "c.dom"], function ($)
+        {
+            $("li[role='menuitem']").each(function () {
+                if ($(this).find('a').attr('href') === "http://www.msn.com/") {
+                    $(this).find('a').css({ "color": "lightgrey" });
+                    $(this).find('a').attr('href', window.redirectedUrl);
+                }
+            });
+        });
+    </script>
+
+    <script>
+        require(["jquery", "c.deferred"], function ($) {
+            $.ajax({
+                url: "/en-us/money/footer" + "/" + "commonFooter" + "/fi-" + "",
+                cache: false,
+                success: function (html) {
+                    $("#finance-footer").append(html);
+                    callback();
+                }
+            });
+        });
+        /*require(["refreshModules", "c.deferred"], function (refreshModules) {
+            var modulesToLoad = $("[data-module-deferred]");
+            refreshModules(modulesToLoad).done(function () {
+                binding("pagingSection", ".pagingsection").all();
+                binding("autoSizeFlex", ".flexenabled > ul").all();
+                // binding("renderSectionAd", ".pagingsection").all();
+                $(".pagingsection img").each(function () { var x = JSON.parse($(this).attr("data-src")); $(this).attr("src", x['default']); });
+            });
+
+        });*/
+        var callback = function()
+        {
+            require(["FinanceFooter"], function(footer)
+            {
+                footer.init();
+            });
+        };
+        
+    </script>
+ <div class="finance-footer-container">
+<div id="finance-footer" class="finance-footer"></div>
+</div>
+
+        <script>
+            window._flushTimings && (window._flushTimings.ContentEnd = new Date - window.performance.timing.navigationStart);
+        </script>
+        <script>
+            window._flushTimings && (window._flushTimings.PostContentEnd = new Date - window.performance.timing.navigationStart);
+        </script>
+    </main>
+        <script>
+            window._flushTimings && (window._flushTimings.AsideEnd = new Date - window.performance.timing.navigationStart);
+        </script>
+     </div>
+    </div>
+
+    <div id="prefooter"  data-region="prefooter"  data-id="118" data-m='{"i":118,"n":"prefooter","y":6}'>
+        
+            <a class="floatingfeedback" href="#"  data-id="119" data-m='{"i":119,"p":118,"n":"feedbackLink","y":12,"o":1}'  data-aop="floatingfeedbacklink">
+                Feedback
+            </a>
+        
+        
+    </div>
+
+        <div id="foot">
+            <footer role="contentinfo"  data-region="footer"
+                     data-id="120" data-m='{"i":120,"n":"Footer","y":2}'>
+
+                
+                 <a class="copyright microsoft" href="https://www.microsoft.com/en-us/default.aspx"  data-id="121" data-m='{"i":121,"p":120,"n":"MicrosoftCopyright","y":14,"o":1}'><span></span><span></span>&#169; 2017 Microsoft</a>
+ <ul id="social-plugins"
+ data-facebook-like-url="https://www.facebook.com/msnmoney" data-facebook-button-width="14.2rem"  data-twitter-follow-screen-name="msn_money" data-twitter-button-width="9.5rem" data-twitter-show-screen-name="false" >
+ <li id="fbcount"  data-id="122" data-m='{"i":122,"p":120,"n":"facebook","y":11,"o":2}'></li>
+  <li id="twcount"  data-id="123" data-m='{"i":123,"p":120,"n":"twitter","y":11,"o":3}'></li>
+ </ul>
+ <ul id="links">
+ <li><a href="https://go.microsoft.com/fwlink/?LinkId=521839"   data-id="124" data-m='{"i":124,"p":120,"n":"footer_privacy","y":14,"o":4}'
+>
+Privacy
+</a>
+</li>
+ <li><a href="https://go.microsoft.com/fwlink/?LinkID=246338"   data-id="125" data-m='{"i":125,"p":120,"n":"footer_legal","y":14,"o":5}'
+>
+Legal
+</a>
+</li>
+ <li><a href="https://go.microsoft.com/fwlink/?LinkID=286759"   data-id="126" data-m='{"i":126,"p":120,"n":"footer_adprivacyinfo","y":14,"o":6}'
+>
+About our Ads
+</a>
+</li>
+ <li><a href="#"  id="footer_feedback"  data-id="127" data-m='{"i":127,"p":120,"n":"footer_feedback","y":14,"o":7}'>Feedback</a></li>
+ <li><a href="https://go.microsoft.com/fwlink/?LinkId=512703"   data-id="128" data-m='{"i":128,"p":120,"n":"footer_help","y":14,"o":8}'
+>
+Help
+</a>
+</li>
+ <li><a href="/en-us/msn-worldwide"   data-id="129" data-m='{"i":129,"p":120,"n":"footer_worldwide","y":14,"o":9}'
+>
+MSN Worldwide
+</a>
+</li>
+ <li><a href="http://newsletters.msn.com/"   data-id="130" data-m='{"i":130,"p":120,"n":"footer_newsletter","y":14,"o":10}'
+>
+Newsletter
+</a>
+</li>
+ <li><a href="http://go.microsoft.com/fwlink/?LinkID=249332"  
+>
+Data Providers
+</a>
+</li>
+ <li><a href="/en-us/money/Entities/A"  
+>
+Money A - Z
+</a>
+</li>
+ </ul>
+
+                
+            </footer>
+        </div>
+        <script>
+            window._flushTimings && (window._flushTimings.FooterEnd = new Date - window.performance.timing.navigationStart);
+        </script>
+
+        <div id="feedback-flyout"  data-aop="feedback_flyout">
+             <button id="feedback-close"  title="close"  data-id="133" data-m='{"i":133,"n":"feedback","y":11,"l":"close"}'></button>
+ <div class="feedbackheader mainheader">
+<h2>Send Feedback</h2>
+<button class="selected"  title="provide feedback"  data-id="134" data-m='{"i":134,"n":"feedback","y":11,"l":"providefeedback"}'>Provide Feedback</button>
+<button id="feedback-reportproblem"  title="report a problem"  data-id="135" data-m='{"i":135,"n":"feedback","y":11,"l":"reportproblem"}'>Report a Problem</button>
+</div>
+ <div class="feedbackheader thankyou">
+<h2>We appreciate your input!</h2>
+</div>
+ <div id="feedback-feedbackarea">
+<div class="feedbackarea">
+<label>Select a category:</label>
+<ul>
+ <li><p>I&#39;m having problems with Top Destinations</p></li>
+ <li><p>I&#39;m having issues searching</p></li>
+ <li><p>I&#39;m having problems with Featured Apps</p></li>
+ <li><p>I see an error in the content</p></li>
+ <li><p>Other</p></li>
+ </ul>
+</div>
+<div class="feedbackarea">
+<label for="feedback-inputbox">How we can improve?</label>
+<textarea id="feedback-inputbox" maxlength="400" placeholder="Enter your feedback here. To help protect your privacy, don&#39;t include personal information, like your name or address."></textarea>
+</div>
+</div>
+ <div id="feedback-starrating">
+ <div class="stars">
+<p>Please give an overall site rating:</p>
+<ul data-selected="0">
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ </ul>
+</div>
+</div>
+ <button id="feedback-submit" class="footerbutton"  title="submit"  data-id="136" data-m='{"i":136,"n":"feedback","y":11,"l":"submit"}'>Submit</button>
+ <button id="feedback-ok" class="footerbutton"  title="close"  data-id="137" data-m='{"i":137,"n":"feedback","y":11,"l":"ok"}'>Close</button>
+ <div class="feedbackfooter">
+ <div id="feedback-privacy-link">
+<a href="https://go.microsoft.com/fwlink/?LinkId=521839" class="footerlink" target="_blank"  data-id="138" data-m='{"i":138,"n":"feedback","y":14,"l":"feedbackPrivacyLink"}'>Privacy Statement</a>
+</div>
+  <div id="feedback-help-link">
+<a href="http://support.microsoft.com/kb/2999547/" class="footerlink" target="_blank"  data-id="139" data-m='{"i":139,"n":"feedback","y":14,"l":"feedbackHelpLink"}'>Help</a>
+</div>
+  <div id="feedback-help-support-link">
+<a href="http://support.microsoft.com/product/msn/msn" class="footerlink" target="_blank"  data-id="140" data-m='{"i":140,"n":"feedback","y":14,"l":"feedbackHelpSupportLink"}'>Help &amp; Support</a>
+</div>
+  </div>
+
+        </div>
+    <script> _timing.content = +new Date </script>
+<script>require(["window","document","location","trackInfo","c.onload"],function(n,t,i,r){(function u(){var e=r.sitePage,h=e.chartBeatUID,v=e.localeCode,o=e.channel,c=e.department,l=e.chartBeatBase,y=e.chartBeatDomain||i.hostname,p=c?o+","+o+":"+c:o,s,f,a;h&&l?(s=n._timing||{},n._st_startpt=s.start||0,n._st_endpt=s.load||0,f=n.location.pathname,f==="/"||f==="/en-us/"?f="/en-us":f.charAt(f.length-1)=="/"&&(f=f.substr(0,f.length-1)),n._sf_async_config={uid:h,sessionLength:15,domain:v+"."+y,sections:p,authors:e.cvPartner?decodeURIComponent(e.cvPartner.replace("+","%20")):"",path:f},a=(/\bsn:\s*(\w*)/.exec(t.getElementsByTagName("HEAD")[0].getAttribute("data-info"))||{})[1]||"",n._cbq=n._cbq||[],n._cbq.push(["_cdname",a]),require({js:l+"/js/chartbeat.js"})):setTimeout(u,50)})()})</script>    <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+            var url = '//c.bing.com/c.gif?Red3=MSNLI_pd&rid=6d63b3ca-e3c4-4a7e-959e-6164b50401de&lng=en-us&dgk=tmx.pc.edge.spartan&imd=0&pn=destinationpage&rf=&tp=http%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fwatchlist%3Focid%3Dspartandhp';
+            if (headData && headData.clientSettings && headData.clientSettings.static_page)
+            {
+                mediator.pub(pageInstance.eventName);
+                var rid = pageInstance.getActivityId();
+                url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+            new Image().src = url.replace(/&amp;/g, '&');
+        });
+    </script>
+    <noscript>
+        <div>
+            <img src="//c.bing.com/c.gif?Red3=MSNLI_pd&amp;rid=6d63b3ca-e3c4-4a7e-959e-6164b50401de&amp;lng=en-us&amp;dgk=tmx.pc.edge.spartan&amp;imd=0&amp;pn=destinationpage&amp;rf=&amp;tp=http%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fwatchlist%3Focid%3Dspartandhp&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+            <script type="text/javascript" async="async" src="//widgets.outbrain.com/external/publishers/msn/MSNIdSync.js"></script>
+<script>require(["imageLoad"],function(n){n.cleanup()});define("adLoad",["viewAware","classList","evaluate","mediator","pageTime","document","imgSrc"],function(n,t,i,r,u,f,e){function o(n,t){var i,r;if(n&&n.length)for(i=0;r=n[i];++i)r.nodeType==1&&t(r)}function s(u,f){function y(n){var i,c,h,f;if(n.htmlid==a||n.id==a){if(i=s.offsetHeight,c=s.getAttribute("ad-loaded-height"),c)try{h=parseInt(c);!isNaN(h)&&i<h&&(i=h)}catch(l){return}t.contains(u,"layout-large")?t.remove(u,"layout-large"):t.contains(u,"layout-medium")?t.remove(u,"layout-medium"):t.contains(u,"layout-small")?t.remove(u,"layout-small"):t.contains(u,"layout-none")?t.remove(u,"layout-none"):t.contains(u,"no-ad")&&t.remove(u,"no-ad");i<=2?f="layout-none":v?i>=550?f="layout-large":i>=200?f="layout-medium":i>=50&&(f="layout-small"):i>299?f="layout-large":i>99&&(f="layout-small");f&&(t.add(u,f),o(u.querySelectorAll("img"),function(n){e.checkLoad(n)}),r.pub("invalidate-layout",u),r.pub("truncate"))}}var h,v,l,c,s,a,p;if(u&&u.querySelectorAll&&(f=f||".showcasead,.ad300x250,.ad",h=u.querySelectorAll(f),v=u.className.indexOf("today")>=0,h.length)){if(h.length==1)l=h[0];else switch(n.currentView()){case n.views.SIZE1ROWSIZE4COLUMN:case n.views.SIZE2ROWSIZE4COLUMN:l=h[h.length-1];break;default:l=h[0]}(l.style.display="block",s=l.querySelector(".adcontainer"),s&&(c=i(s.getAttribute("data-adjs"))))&&(a=s.id,v&&(p=s.getAttribute("ad-loaded-height"),p&&y(s)),require(["dap"],function(n){r.sub(n.adLoadedEvent,y);r.sub(n.adRerenderedEvent,y);c.dap&&n(c.dap,c.width,c.height,a,c.iaf,c.option)}))}}var h=f.querySelectorAll(".today1,.todaymodule,.todaystripe,.skyline,.pagingsection .newlist,.tabsection .newlist,.pagingsection .list,.tabsection .list");return o(h,s),{loadSectionAd:s}});require(["trackInfo","window","c.onload"],function(n,t){function o(){if(n.sitePage.requestId){var i=u.setupParameters("load_time");i&&(i.timeToOnload=r,i.timeToDomComplete=f,i.timeToFirstByte=e,t.performance&&t.performance.navigation&&t.performance.navigation.type&&(i.navType=t.performance.navigation.type),u.sendUpdate(i))}else t.setTimeout(o,500)}var u=n.telemetryTracking,r,f,e,i=(t.performance||{}).timing;i&&(r=i.loadEventStart-i.navigationStart,f=i.domComplete-i.navigationStart,e=i.responseStart-i.navigationStart,r&&o())});define("c.dom",1);window.onload=function(n){function r(){clearTimeout(t);t=0;define("c.deferred",1);require(["c.deferred"],function(){i=setTimeout(f,u)})}function f(){clearTimeout(i);i=0;define("c.postdeferred",1)}var t,i,u=2e3;return function(n){var i;n&&(i=(window.JSON&&window.JSON.parse(n)||{}).dms,u=(window.JSON&&window.JSON.parse(n)||{}).ps);t=setTimeout(r,i||3e3)}(document.getElementsByTagName("head")[0].getAttribute("data-js")),function(i){(window._timing||{}).load=+new Date;typeof n=="function"&&n(i);define("c.onload",1);t&&(window.setImmediate?setImmediate(r):setTimeout(r,0))}}(window.onload);require(["jquery","afire","c.dom"],function(n,t){n("body").hasClass("fltssl-keepwarm")&&setInterval(function(){t("https://www.bing.com/partner/primedns.gif?t="+ +new Date)},2e4)});define("withQueryNavigation",["jquery","navigation","document","location","withQueryNavigation.tokens"],function(n,t,i,r,u){function h(n){var f,s,h,e;if(!n||!c)return n;var i,r=t.getParamsFromUrl(n,!0),u=n.split("?")[0],l="";u&&(f=u.split("#"),f.length==2&&(u=f[0],l="#"+f[1]));s=[];for(i in o)r[i]||(r[i]=o[i]);for(i in r)for(h=r[i],e=0;e<h.length;++e)s.push(i+"="+h[e]);return u+"?"+s.join("&")+l}function a(n){var i="";return n&&n.length>0&&(i=t.getHostName(n),!i)?!1:d.test(i)}function v(n,t){for(var i=0;i<s.length;i++)if(s[i](n,w(n,t))===!1)return!1}function y(n){return{href:n.attr("href"),target:n.attr("target"),$elem:n}}function p(t){if(t){for(var i=n(t.target),r=y(i);!r.href&&i.length;)i=i.parents("a").eq(0),i.length&&(r=y(i));if(i.length&&r.href)return r}return null}function w(n,i){var u="";if(n&&n.length){if(n.indexOf("javascript:")===0)return!0;if(u=t.getHostName(n),!u)return!1}return i||u!=r.host&&u&&!b.test(u)}var b=new RegExp(u.matchDomainAsInternal,"i"),k=u.whiteListParamKeys.split(","),e=t.getParamsFromUrl(r.href,!0),o={},s=[],c=!1,d=/(^login\.live(-int)?\.com$)/i,f,l;for(f in e)e.hasOwnProperty(f)&&(l=k.indexOf(f.toLowerCase()),l>-1&&(o[f]=e[f],c=!0));t.filter=function(n){return v(n)===!1?!1:a(n)?n:h(n)};n(i).on("click","a",function(n){var t=p(n);if(t&&v(t.href,t.target)===!1)return n.preventDefault(),n.stopPropagation(),!1});n(i).on("mousedown","a",function(n){var t=p(n);t&&!t.$elem[0].appendedWhiteListQueryParams&&t.href&&!w(t.href,t.target)&&(t.$elem[0].appendedWhiteListQueryParams=!0,t.$elem.attr("href",a(t.href)?t.href:h(t.href)))});return{addNavigateListener:function(n){typeof n=="function"&&s.push(n)},ensureUrl:h}});define("withQueryNavigation.tokens",{matchDomainAsInternal:"(^t\.(.*?\.)?msn\.com$)|(^news\.msn\.com$)|(^news\.uk\.msn\.com$)|(^login\.live(-int)?\.com$)",whiteListParamKeys:"console,debugjs,devicegroup,downlevel,env,hostoverride,item,lang,noredir,staticsmode,tmx,view,deferred_page,deferred_regions_per_page,pdpenabled,flatlist,xd,skipxd,getstaticpage,setmarket,cachebypass,mock,collectmockdata,fdhead,ocid,setflight,trendinglist,csopd,csopdb"})</script><script>define("trackingConstants",{trackingData: {lastIndex: 140 } });</script>    <script> _timing.body = +new Date </script>
+    </body>
+        <!--MSNAvailToken-->
+    </html>
